@@ -1,8 +1,6 @@
 # 프로젝트 제목
 ATVT(Auto_Tagging& Visualization_Tool)
 
-## 설치 방법 (Installation)
-* git clone https://gitlab.com/ntels-atvt/auto-tagging.git
 
 ## 폴더 구성 (Structure)
 ![폴더구성 이미지](./ETC/img.png)
