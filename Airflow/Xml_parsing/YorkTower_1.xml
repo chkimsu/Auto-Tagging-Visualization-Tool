@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<DeviceStorage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Objects>
+    <Object Type="OBJECT_DEVICE" Instance="1">
+      <Properties>
+        <Property Id="PROP_OBJECT_IDENTIFIER" Tag="BACNET_APPLICATION_TAG_OBJECT_ID">
+          <Value>OBJECT_DEVICE:1</Value>
+        </Property>
+        <Property Id="PROP_OBJECT_NAME" Tag="BACNET_APPLICATION_TAG_CHARACTER_STRING">
+          <Value>YorkTower_1</Value>
+        </Property>
+        <Property Id="PROP_OBJECT_TYPE" Tag="BACNET_APPLICATION_TAG_ENUMERATED">
+          <Value>8</Value>
+        </Property>
+        <Property Id="PROP_SYSTEM_STATUS" Tag="BACNET_APPLICATION_TAG_ENUMERATED">
+          <Value>0</Value>
+        </Property>
+        <Property Id="PROP_VENDOR_NAME" Tag="BACNET_APPLICATION_TAG_CHARACTER_STRING">
+          <Value>Tridium</Value>
+        </Property>
+        <Property Id="PROP_VENDOR_IDENTIFIER" Tag="BACNET_APPLICATION_TAG_UNSIGNED_INT">
+          <Value>36</Value>
+        </Property>
+        <Property Id="PROP_MODEL_NAME" Tag="BACNET_APPLICATION_TAG_CHARACTER_STRING">
+          <Value>NiagaraAX Station</Value>
+        </Property>
+        <Property Id="PROP_FIRMWARE_REVISION" Tag="BACNET_APPLICATION_TAG_CHARACTER_STRING">
+          <Value>3.8.111</Value>
+        </Property>
+        <Property Id="PROP_APPLICATION_SOFTWARE_VERSION" Tag="BACNET_APPLICATION_TAG_CHARACTER_STRING">
+          <Value>Tridium 3.8.111</Value>
+        </Property>
+        <Property Id="PROP_PROTOCOL_VERSION" Tag="BACNET_APPLICATION_TAG_UNSIGNED_INT">
+          <Value>1</Value>
+        </Property>
+        <Property Id="PROP_PROTOCOL_REVISION" Tag="BACNET_APPLICATION_TAG_UNSIGNED_INT">
+          <Value>7</Value>
+        </Property>
+        <Property Id="PROP_PROTOCOL_SERVICES_SUPPORTED" Tag="BACNET_APPLICATION_TAG_BIT_STRING">
+          <Value>1111111111001011111010000011111011111011</Value>
+        </Property>
+        <Property Id="PROP_PROTOCOL_OBJECT_TYPES_SUPPORTED" Tag="BACNET_APPLICATION_TAG_BIT_STRING">
+          <Value>1111111010101111010110000000010</Value>
+        </Property>
+        <Property Id="PROP_OBJECT_LIST" Tag="BACNET_APPLICATION_TAG_OBJECT_ID">
+          <Value>OBJECT_DEVICE:1</Value>
+        </Property>
+        <Property Id="PROP_MAX_APDU_LENGTH_ACCEPTED" Tag="BACNET_APPLICATION_TAG_UNSIGNED_INT">
+          <Value>1476</Value>
+        </Property>
+        <Property Id="PROP_SEGMENTATION_SUPPORTED" Tag="BACNET_APPLICATION_TAG_ENUMERATED">
+          <Value>0</Value>
+        </Property>
+        <Property Id="PROP_APDU_TIMEOUT" Tag="BACNET_APPLICATION_TAG_UNSIGNED_INT">
+          <Value>6000</Value>
+        </Property>
+        <Property Id="PROP_NUMBER_OF_APDU_RETRIES" Tag="BACNET_APPLICATION_TAG_UNSIGNED_INT">
+          <Value>3</Value>
+        </Property>
+        <Property Id="PROP_DEVICE_ADDRESS_BINDING" Tag="BACNET_APPLICATION_CONTEXT_SPECIFIC">
+          <Value>Device_Identifier:OBJECT_DEVICE:1102202Network_Number:0mac_address:0A-01-16-CA-BA-C0</Value>
+          <Value>Device_Identifier:OBJECT_DEVICE:2Network_Number:0mac_address:0A-01-16-05-BA-C0</Value>
+          <Value>Device_Identifier:OBJECT_DEVICE:501Network_Number:0mac_address:0A-01-16-0B-BA-C0</Value>
+          <Value>Device_Identifier:OBJECT_DEVICE:502Network_Number:0mac_address:0A-01-16-0C-BA-C0</Value>
+          <Value>Device_Identifier:OBJECT_DEVICE:503Network_Number:0mac_address:0A-01-16-0D-BA-C0</Value>
+          <Value>Device_Identifier:OBJECT_DEVICE:505Network_Number:0mac_address:0A-01-16-0E-BA-C0</Value>
+          <Value>Device_Identifier:OBJECT_DEVICE:506Network_Number:0mac_address:0A-01-16-0F-BA-C0</Value>
+          <Value>Device_Identifier:OBJECT_DEVICE:507Network_Number:0mac_address:0A-01-16-10-BA-C0</Value>
+          <Value>Device_Identifier:OBJECT_DEVICE:508Network_Number:0mac_address:0A-01-16-11-BA-C0</Value>
+          <Value>Device_Identifier:OBJECT_DEVICE:509Network_Number:0mac_address:0A-01-16-12-BA-C0</Value>
+          <Value>Device_Identifier:OBJECT_DEVICE:504Network_Number:0mac_address:0A-01-16-19-BA-C0</Value>
+        </Property>
+        <Property Id="PROP_DATABASE_REVISION" Tag="BACNET_APPLICATION_TAG_UNSIGNED_INT">
+          <Value>5895</Value>
+        </Property>
+        <Property Id="PROP_LOCATION" Tag="BACNET_APPLICATION_TAG_CHARACTER_STRING">
+          <Value>unknown</Value>
+        </Property>
+        <Property Id="PROP_DESCRIPTION" Tag="BACNET_APPLICATION_TAG_CHARACTER_STRING">
+          <Value>Local BACnet Device object</Value>
+        </Property>
+        <Property Id="PROP_MAX_SEGMENTS_ACCEPTED" Tag="BACNET_APPLICATION_TAG_UNSIGNED_INT">
+          <Value>255</Value>
+        </Property>
+        <Property Id="PROP_LOCAL_TIME" Tag="BACNET_APPLICATION_TAG_TIME">
+          <Value>1/1/0001 2:30:18 AM</Value>
+        </Property>
+        <Property Id="PROP_LOCAL_DATE" Tag="BACNET_APPLICATION_TAG_DATE">
+          <Value>2/6/2020 12:00:00 AM</Value>
+        </Property>
+        <Property Id="PROP_UTC_OFFSET" Tag="BACNET_APPLICATION_TAG_SIGNED_INT">
+          <Value>0</Value>
+        </Property>
+        <Property Id="PROP_DAYLIGHT_SAVINGS_STATUS" Tag="BACNET_APPLICATION_TAG_BOOLEAN">
+          <Value>False</Value>
+        </Property>
+        <Property Id="PROP_APDU_SEGMENT_TIMEOUT" Tag="BACNET_APPLICATION_TAG_UNSIGNED_INT">
+          <Value>4000</Value>
+        </Property>
+        <Property Id="PROP_TIME_SYNCHRONIZATION_RECIPIENTS" Tag="BACNET_APPLICATION_TAG_NULL" />
+        <Property Id="PROP_ACTIVE_COV_SUBSCRIPTIONS" Tag="BACNET_APPLICATION_TAG_NULL" />
+        <Property Id="PROP_MAX_MASTER" Tag="BACNET_APPLICATION_TAG_UNSIGNED_INT">
+          <Value>127</Value>
+        </Property>
+        <Property Id="PROP_MAX_INFO_FRAMES" Tag="BACNET_APPLICATION_TAG_UNSIGNED_INT">
+          <Value>1</Value>
+        </Property>
+        <Property Id="PROP_CONFIGURATION_FILES" Tag="BACNET_APPLICATION_TAG_NULL" />
+        <Property Id="PROP_LAST_RESTORE_TIME" Tag="BACNET_APPLICATION_TAG_CONTEXT_SPECIFIC_DECODED">
+          <Value>1/1/0001 12:00:00 AM;1/1/0001 12:00:00 AM</Value>
+        </Property>
+        <Property Id="PROP_BACKUP_FAILURE_TIMEOUT" Tag="BACNET_APPLICATION_TAG_UNSIGNED_INT">
+          <Value>180</Value>
+        </Property>
+        <Property Id="PROP_UTC_TIME_SYNCHRONIZATION_RECIPIENTS" Tag="BACNET_APPLICATION_TAG_NULL" />
+        <Property Id="PROP_TIME_SYNCHRONIZATION_INTERVAL" Tag="BACNET_APPLICATION_TAG_UNSIGNED_INT">
+          <Value>1440</Value>
+        </Property>
+        <Property Id="PROP_ALIGN_INTERVALS" Tag="BACNET_APPLICATION_TAG_BOOLEAN">
+          <Value>True</Value>
+        </Property>
+        <Property Id="PROP_INTERVAL_OFFSET" Tag="BACNET_APPLICATION_TAG_UNSIGNED_INT">
+          <Value>0</Value>
+        </Property>
+        <Property Id="1338" Tag="BACNET_APPLICATION_TAG_ENUMERATED">
+          <Value>0</Value>
+        </Property>
+        <Property Id="1339" Tag="BACNET_APPLICATION_TAG_UNSIGNED_INT">
+          <Value>60</Value>
+        </Property>
+        <Property Id="1340" Tag="BACNET_APPLICATION_TAG_UNSIGNED_INT">
+          <Value>180</Value>
+        </Property>
+        <Property Id="1341" Tag="BACNET_APPLICATION_TAG_UNSIGNED_INT">
+          <Value>60</Value>
+        </Property>
+      </Properties>
+    </Object>
+  </Objects>
+</DeviceStorage>

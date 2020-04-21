@@ -1,0 +1,25 @@
+[2020-04-17 11:24:03,056] {taskinstance.py:655} INFO - Dependencies all met for <TaskInstance: atvt_training.at_cloud_training_task 2020-04-17T02:21:00+00:00 [queued]>
+[2020-04-17 11:24:03,062] {taskinstance.py:655} INFO - Dependencies all met for <TaskInstance: atvt_training.at_cloud_training_task 2020-04-17T02:21:00+00:00 [queued]>
+[2020-04-17 11:24:03,062] {taskinstance.py:866} INFO - 
+--------------------------------------------------------------------------------
+[2020-04-17 11:24:03,062] {taskinstance.py:867} INFO - Starting attempt 1 of 1
+[2020-04-17 11:24:03,062] {taskinstance.py:868} INFO - 
+--------------------------------------------------------------------------------
+[2020-04-17 11:24:03,146] {taskinstance.py:887} INFO - Executing <Task(PythonOperator): at_cloud_training_task> on 2020-04-17T02:21:00+00:00
+[2020-04-17 11:24:03,158] {standard_task_runner.py:53} INFO - Started process 113533 to run task
+[2020-04-17 11:24:03,296] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: atvt_training.at_cloud_training_task 2020-04-17T02:21:00+00:00 [running]> bi02.com
+[2020-04-17 11:24:06,186] {logging_mixin.py:112} WARNING - /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/training_airflow-module.py:102: ParserWarning: Falling back to the 'python' engine because the 'c' engine does not support regex separators (separators > 1 char and different from '\s+' are interpreted as regex); you can avoid this warning by specifying engine='python'.
+  nlpre = pd.read_csv(PATH2, delimiter='             ', header = None)
+[2020-04-17 11:24:06,191] {taskinstance.py:1128} ERROR - [Errno 17] File exists: 'data/'
+Traceback (most recent call last):
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 966, in _run_raw_task
+    result = task_copy.execute(context=context)
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/site-packages/airflow/operators/python_operator.py", line 113, in execute
+    return_value = self.execute_callable()
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/site-packages/airflow/operators/python_operator.py", line 118, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/training_airflow-module.py", line 257, in at_cloud_training_task
+    os.mkdir(PATH5)
+FileExistsError: [Errno 17] File exists: 'data/'
+[2020-04-17 11:24:06,191] {taskinstance.py:1185} INFO - Marking task as FAILED.dag_id=atvt_training, task_id=at_cloud_training_task, execution_date=20200417T022100, start_date=20200417T022403, end_date=20200417T022406
+[2020-04-17 11:24:12,469] {logging_mixin.py:112} INFO - [2020-04-17 11:24:12,469] {local_task_job.py:103} INFO - Task exited with return code 1

@@ -1,0 +1,30 @@
+elec meter power net sensor
+elec meter power export sensor
+elec meter power import sensor
+elec meter active power total sensor
+elec meter active power phase sensor
+elec meter apparent power total sensor
+elec meter apparent power phase sensor
+elec meter reactive power total sensor
+elec meter reactive power phase sensor
+elec meter energy net sensor
+elec meter energy export sensor
+elec meter energy import sensor
+elec meter energy total sensor
+elec meter energy phase sensor
+elec meter volt mag avg sensor
+elec meter volt mag phase sensor
+elec meter volt angle avg sensor
+elec meter volt angle phase sensor
+elec meter volt thd avg sensor
+elec meter  volt thd phase sensor
+elec meter volt imbalance sensor
+elec meter current mag avg sensor
+elec meter current mag phase sensor
+elec meter current angle avg sensor
+elec meter current angle phase sensor
+elec meter current thd avg sensor
+elec meter current thd phase sensor
+elec meter current imbalance sensor
+elec meter pf avg sensor
+elec meter pf phase sensor

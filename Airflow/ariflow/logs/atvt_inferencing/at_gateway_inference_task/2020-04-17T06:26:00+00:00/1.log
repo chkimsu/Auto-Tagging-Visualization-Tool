@@ -1,0 +1,97 @@
+[2020-04-17 15:32:10,327] {taskinstance.py:655} INFO - Dependencies all met for <TaskInstance: atvt_inferencing.at_gateway_inference_task 2020-04-17T06:26:00+00:00 [queued]>
+[2020-04-17 15:32:10,335] {taskinstance.py:655} INFO - Dependencies all met for <TaskInstance: atvt_inferencing.at_gateway_inference_task 2020-04-17T06:26:00+00:00 [queued]>
+[2020-04-17 15:32:10,335] {taskinstance.py:866} INFO - 
+--------------------------------------------------------------------------------
+[2020-04-17 15:32:10,335] {taskinstance.py:867} INFO - Starting attempt 1 of 1
+[2020-04-17 15:32:10,335] {taskinstance.py:868} INFO - 
+--------------------------------------------------------------------------------
+[2020-04-17 15:32:10,416] {taskinstance.py:887} INFO - Executing <Task(PythonOperator): at_gateway_inference_task> on 2020-04-17T06:26:00+00:00
+[2020-04-17 15:32:10,430] {standard_task_runner.py:53} INFO - Started process 43869 to run task
+[2020-04-17 15:32:10,577] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: atvt_inferencing.at_gateway_inference_task 2020-04-17T06:26:00+00:00 [running]> bi02.com
+[2020-04-17 15:32:30,322] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:30,322] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:30,322] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:32:30,322] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:32:30,322] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:32:34,583] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:34,583] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:34,583] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:32:34,583] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:32:34,583] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:32:35,637] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:35,637] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:35,637] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:32:35,637] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:32:35,637] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:32:36,720] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:36,720] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:36,720] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:32:36,720] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:32:36,720] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:32:37,778] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:37,778] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:37,778] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:32:37,778] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:32:37,778] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:32:38,825] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:38,825] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:38,825] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:32:38,826] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:32:38,826] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:32:39,838] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:39,838] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:39,838] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:32:39,839] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:32:39,839] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:32:40,915] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:40,915] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:40,915] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:32:40,916] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:32:40,916] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:32:41,937] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:41,938] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:41,938] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:32:41,938] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:32:41,938] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:32:42,974] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:42,974] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:42,974] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:32:42,975] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:32:42,975] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:32:44,022] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:44,023] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:44,023] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:32:44,023] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:32:44,023] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:32:45,066] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:45,066] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:45,066] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:32:45,066] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:32:45,066] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:32:46,093] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:46,093] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:46,093] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:32:46,093] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:32:46,093] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:32:47,136] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:47,136] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:32:47,136] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:32:47,136] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:32:47,137] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:32:48,212] {logging_mixin.py:112} INFO - <Response [200]>
+[2020-04-17 15:32:48,227] {logging_mixin.py:112} INFO - <Response [200]>
+[2020-04-17 15:32:48,255] {logging_mixin.py:112} INFO - <Response [200]>
+[2020-04-17 15:32:48,267] {logging_mixin.py:112} INFO - <Response [200]>
+[2020-04-17 15:32:48,278] {logging_mixin.py:112} INFO - <Response [200]>
+[2020-04-17 15:32:48,291] {logging_mixin.py:112} INFO - <Response [200]>
+[2020-04-17 15:32:48,301] {logging_mixin.py:112} INFO - <Response [200]>
+[2020-04-17 15:32:48,312] {logging_mixin.py:112} INFO - <Response [200]>
+[2020-04-17 15:32:48,323] {logging_mixin.py:112} INFO - <Response [200]>
+[2020-04-17 15:32:48,353] {logging_mixin.py:112} INFO - <Response [200]>
+[2020-04-17 15:32:48,394] {logging_mixin.py:112} INFO - <Response [200]>
+[2020-04-17 15:32:48,405] {logging_mixin.py:112} INFO - <Response [200]>
+[2020-04-17 15:32:48,417] {logging_mixin.py:112} INFO - <Response [200]>
+[2020-04-17 15:32:48,429] {logging_mixin.py:112} INFO - <Response [200]>
+[2020-04-17 15:32:48,432] {python_operator.py:114} INFO - Done. Returned value was: Success
+[2020-04-17 15:32:48,538] {taskinstance.py:1048} INFO - Marking task as SUCCESS.dag_id=atvt_inferencing, task_id=at_gateway_inference_task, execution_date=20200417T062600, start_date=20200417T063210, end_date=20200417T063248
+[2020-04-17 15:32:50,188] {logging_mixin.py:112} INFO - [2020-04-17 15:32:50,188] {local_task_job.py:103} INFO - Task exited with return code 0

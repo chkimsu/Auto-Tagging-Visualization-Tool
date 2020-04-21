@@ -1,0 +1,5 @@
+vfds run cmd		
+vfds run sensor
+vfds enable cmd
+vfds speed cmd
+vfds freq cmd

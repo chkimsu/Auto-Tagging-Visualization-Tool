@@ -1,0 +1,150 @@
+[2020-04-17 15:35:49,573] {taskinstance.py:655} INFO - Dependencies all met for <TaskInstance: atvt_inferencing.at_gateway_inference_task 2020-04-17T06:30:00+00:00 [queued]>
+[2020-04-17 15:35:49,580] {taskinstance.py:655} INFO - Dependencies all met for <TaskInstance: atvt_inferencing.at_gateway_inference_task 2020-04-17T06:30:00+00:00 [queued]>
+[2020-04-17 15:35:49,580] {taskinstance.py:866} INFO - 
+--------------------------------------------------------------------------------
+[2020-04-17 15:35:49,580] {taskinstance.py:867} INFO - Starting attempt 1 of 1
+[2020-04-17 15:35:49,581] {taskinstance.py:868} INFO - 
+--------------------------------------------------------------------------------
+[2020-04-17 15:35:49,663] {taskinstance.py:887} INFO - Executing <Task(PythonOperator): at_gateway_inference_task> on 2020-04-17T06:30:00+00:00
+[2020-04-17 15:35:49,673] {standard_task_runner.py:53} INFO - Started process 44580 to run task
+[2020-04-17 15:35:49,809] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: atvt_inferencing.at_gateway_inference_task 2020-04-17T06:30:00+00:00 [running]> bi02.com
+[2020-04-17 15:36:09,714] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:09,714] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:09,714] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:36:09,715] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:36:09,715] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:36:13,497] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:13,497] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:13,498] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:36:13,498] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:36:13,498] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:36:14,508] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:14,508] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:14,508] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:36:14,508] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:36:14,508] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:36:15,524] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:15,524] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:15,524] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:36:15,524] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:36:15,524] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:36:16,570] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:16,571] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:16,571] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:36:16,572] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:36:16,572] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:36:17,638] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:17,638] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:17,638] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:36:17,639] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:36:17,639] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:36:18,692] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:18,692] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:18,692] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:36:18,692] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:36:18,692] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:36:19,685] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:19,685] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:19,686] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:36:19,686] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:36:19,686] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:36:20,756] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:20,756] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:20,756] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:36:20,756] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:36:20,756] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:36:21,829] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:21,829] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:21,829] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:36:21,830] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:36:21,830] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:36:22,898] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:22,898] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:22,898] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:36:22,898] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:36:22,899] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:36:23,898] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:23,898] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:23,898] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:36:23,899] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:36:23,899] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:36:24,906] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:24,907] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:24,907] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:36:24,907] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:36:24,907] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:36:25,965] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:25,965] {logging_mixin.py:112} INFO - █
+[2020-04-17 15:36:25,965] {logging_mixin.py:112} INFO - Epoch 1/1 : |--------------------| 0.00% [0/1 00:00<00:00]
+[2020-04-17 15:36:25,966] {logging_mixin.py:112} INFO - Epoch 1/1 : |████████████████████| 100.00% [1/1 00:00<00:00]
+[2020-04-17 15:36:25,966] {logging_mixin.py:112} INFO - Epoch 1/1 :                                                 
+[2020-04-17 15:37:30,026] {taskinstance.py:1128} ERROR - HTTPConnectionPool(host='192.168.21.6', port=5001): Max retries exceeded with url: /points/inferences/result (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f62d99cc240>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+Traceback (most recent call last):
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/site-packages/urllib3/connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/site-packages/urllib3/util/connection.py", line 84, in create_connection
+    raise err
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/site-packages/urllib3/util/connection.py", line 74, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/site-packages/urllib3/connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/site-packages/urllib3/connectionpool.py", line 387, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/http/client.py", line 1239, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/http/client.py", line 1285, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/http/client.py", line 1234, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/http/client.py", line 1026, in _send_output
+    self.send(msg)
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/http/client.py", line 964, in send
+    self.connect()
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/site-packages/urllib3/connection.py", line 184, in connect
+    conn = self._new_conn()
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/site-packages/urllib3/connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f62d99cc240>: Failed to establish a new connection: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/site-packages/urllib3/connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/site-packages/urllib3/util/retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.21.6', port=5001): Max retries exceeded with url: /points/inferences/result (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f62d99cc240>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 966, in _run_raw_task
+    result = task_copy.execute(context=context)
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/site-packages/airflow/operators/python_operator.py", line 113, in execute
+    return_value = self.execute_callable()
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/site-packages/airflow/operators/python_operator.py", line 118, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/Inferencing_airflow-module.py", line 190, in at_gateway_inference_task
+    API_Request(data)
+  File "/data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/Inferencing_airflow-module.py", line 131, in API_Request
+    res = requests.post(url, headers=headers, data=data.iloc[i, :].to_json())
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/site-packages/requests/api.py", line 116, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/chkimsu/anaconda3/envs/csb2/lib/python3.6/site-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='192.168.21.6', port=5001): Max retries exceeded with url: /points/inferences/result (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f62d99cc240>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+[2020-04-17 15:37:30,032] {taskinstance.py:1185} INFO - Marking task as FAILED.dag_id=atvt_inferencing, task_id=at_gateway_inference_task, execution_date=20200417T063000, start_date=20200417T063549, end_date=20200417T063730
+[2020-04-17 15:37:34,490] {logging_mixin.py:112} INFO - [2020-04-17 15:37:34,489] {local_task_job.py:103} INFO - Task exited with return code 1

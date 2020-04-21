@@ -1,0 +1,34 @@
+Variable,PATH
+PATH0,/data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/training.txt
+dictionary,/data01/CSB/CSB_Jupyter/ATVT/CSB-NLpre/Dictionary/MeSH_two_word_lexicon3.csv
+PATH2,/data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/training_result.txt
+PATH3,train/
+PATH4,test/
+PATH5,data/
+host,192.168.12.166
+port,30037
+user,root
+passwd,ntels
+db,nisbcp
+charset,utf8
+column1,id
+column2,description
+column3,name
+column4,point
+column5,equip
+prefix,MeSH_
+temp,temp/
+sql_1,"SELECT id,description, name, point, equip FROM t_points_atvt"
+PATH16,500
+batchsize,20
+epoch,1
+predictorpath,/data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/csbpredictor
+dags_name,atvt_training
+description,atvt_gateway_inference DAG
+schedule,* */2 * * *
+now_year,2020
+now_month,4
+now_date,6
+dummytask_id,dummy_task
+pythontask_id,at_cloud_training_task
+learning_rate,0.0001
