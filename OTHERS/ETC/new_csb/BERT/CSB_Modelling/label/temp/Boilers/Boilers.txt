@@ -1,0 +1,6 @@
+boilers run cmd
+boilers run sensor
+boilers enable cmd
+boilers circ pump cmd
+boilers condensate pump cmd
+boilers condensate pump sensor

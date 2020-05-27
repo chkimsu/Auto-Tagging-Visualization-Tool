@@ -1,0 +1,14 @@
+Variable,PATH
+train_data_csv_path,"/data01/justinjang87/ATVT/Dataset/Traning_Dataset/new_testhere1.csv"
+python_path,"/home/justinjang87/anaconda3/envs/transformers2/bin/python3"
+external_model_path,"/data01/justinjang87/ATVT/Modeling/xlnet-advance/external_model.py"
+host_path,"192.168.21.6"
+user_path,"root"
+password_path,"ntels"
+db_path,"nise"
+charset_path,"utf8"
+all_inference_sql,"select * from auto_tagging"
+command_at_inference_CHANGED_sql,"select * from auto_tagging where changed = 'y'"
+flask_host_path,"192.168.5.237"
+flask_port_path,"5000"
+flask_debug_setting,FALSE

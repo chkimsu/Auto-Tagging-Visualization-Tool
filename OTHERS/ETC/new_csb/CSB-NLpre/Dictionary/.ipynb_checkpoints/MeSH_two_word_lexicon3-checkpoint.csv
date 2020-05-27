@@ -1,0 +1,316 @@
+,term,replacement
+0,DWC,Domestic Water Supply Equipment
+1,DWH,Domestic Hot Water Supply Equipment
+2,EE,Electric Equipment
+3,EGS,Generation Equipment
+4,EPS,Electric Power Supply Equipment
+5,FF,Fire-Fighting Equipment
+6,GSE,Gas Supply Equipment
+7,HSC,"Heat Source Equipment, Cooling"
+8,HSH,"Heat Source Equipment, Heating"
+9,HVAC,"Heating, Ventilating & Air Conditioning Equipment"
+10,LE,Lighting Equipment
+11,AL,Alarm
+12,AP,Apparent Power
+13,C,Concentration
+14,CE,"Current, Electric"
+15,CS,State of Contact
+16,ETC,ETC
+17,F,"Flow Rate, Volumetric"
+18,FA,"Flow Rate, Volumetric, Adjusted"
+19,FC,"Flow Rate, Voumetric, Cumulative"
+20,Fq,Frequency
+21,GH,"Gas Consume Amount, Accumulated"
+22,H,Heat
+23,HC,"Heat, Cumulative"
+24,HM,Humadity
+25,HMS,Humadity Setting
+26,I,Intensity of Illumination
+27,IR,Infrared Ray
+28,L,Level
+29,LF,Luminance Flux
+30,LI,Light Intensity
+31,LL,Light Luminance
+32,M,Mass
+33,OS,State of Operation(On/Off)
+34,OSS,상태설정입력
+35,O_IEQ,Indoor Environment Quality
+36,O_PW,Power
+37,P,Pressure
+38,PD,Pressure Difference
+39,PF,Power Factor
+40,RW,Reactive Power
+41,RWH,"Reactive Power,Accumulate"
+42,RWHM,"Reactive Electric Power,Interval"
+43,S,Speed
+44,SR,Solar Radiation
+45,ST,Setting Temperature
+46,T,Temperature
+47,TM,Time
+48,TR,"Temperature,Radiant"
+49,TS,Temperature Setting
+50,UW,Ultrasonic Wave Sensor
+51,V,Voltage
+52,W,Electric Power
+53,WH,"Electric Power, Accumulated"
+54,WHM,"Electric Power, interval"
+55,A,Air
+56,ANC,Anthracite
+57,AP,Asphalt
+58,BR,Brine
+59,BT,Bhutan
+60,C,Chemical
+61,C9,C9
+62,CGW,Cooling Water
+63,CO,carbon monoxide
+64,CO2,CO2
+65,COK,cokes
+66,CW,Chilled Water
+67,EA,Exhaust Air
+68,EG,Exhaust Gas
+69,EL,electricity
+70,ES,Exhaust Smoke
+71,ETC,기타
+72,FW,Feed Water
+73,G,Gas
+74,GC,"Gas, City"
+75,HCW,Hot&Chilled Water
+76,HM,Humidity
+77,HS,Hi-sene
+78,HW,Hot Water
+79,HWD,"Hot Water, Domestic"
+80,I,Ice
+81,IL,Illuminance
+82,IR,Infrared Spectroscopy
+83,JF,JetFuel
+84,LC,Lubricant
+85,LNG,LNG
+86,LPG,LPG
+87,MA,Mixed Air
+88,MT,Menstruum
+89,MTW,Medium Temperature Water
+90,,
+91,NI,Noise
+92,NPT,Naphtha
+93,OA,Outdoor Air
+94,OBA,"B-A,Oil"
+95,OBB,"B-B,Oil"
+96,OBC,"B-C,Oil"
+97,OD,"Oil, Diesel"
+98,OG,Gasoline
+99,OH,"Oil, Heavy"
+100,OIL,Oil
+101,OL,Lampoil
+102,PC,PetroleumCoke
+103,PM10,Particulate Matter 10
+104,PM25,Particulate Matter 2.5
+105,PP,Propane
+106,R,Refrigerant
+107,RA,Return Air
+108,RDW,Roof Drain Water
+109,RM,Room
+110,RW,Reclimed Water
+111,SA,Supply Air
+112,SC,Sream Condensed
+113,SFTC,softcoal
+114,SINT,
+115,SMK,Smoke
+116,ST,Steam
+117,SUBC,subbituminouscoal
+118,T,Temperature
+119,TVOC,TOTAL Volatile Organic Compounds
+120,VA,Ventilating Air
+121,VOCs,Volatile Organic Compounds
+122,WD,"Water, Domestic"
+123,WH,Watt-hour
+124,WHM,Watt-hour 15min
+125,DS,Demand Side
+126,I,Inlet
+127,,
+128,O,Outlet
+129,R,Return
+130,S,Supply
+131,SS,Supply Side
+132,AHU,Air Handling Unit
+133,AMI,AMI
+134,B,Boiler
+135,C,Chiller
+136,CP,Concentric Plug
+137,CT,Cooling Tower
+138,DT,Duct
+139,EHP,Electric Heat Pump
+140,EIP,Electric Incoming Panel
+141,EN,Generation
+142,EPB,Electric Panelboard
+143,ESB,Electric Switchboard
+144,ESS,Energy Storage System
+145,ETC,ETC
+146,FAN,"Fan, Blower"
+147,FCU,Fan Coil Unit
+148,GE,Gas Engine
+149,GHP,Gas Engine Heat Pump
+150,GT,Gas Turbine
+151,HST,Heat Strage Tank
+152,HX,Heat Exchanger
+153,IEQ,IEQ
+154,ISMT,ismart
+155,IST,Ice Strage Tank
+156,LA,Lighitng Apparatus
+157,OAHU,Out Air Handling Unit
+158,PAC,Packaged Air Conditioner
+159,PMP,Pump
+160,PP,Pipe
+161,SEM,Solar Energy Management
+162,THC,"Tempature&Humidity Chamber, Thermo-Hydrostat"
+163,TR,Transformer
+164,WT,Water Tank
+165,A,application layer
+166,ABA,American Bankers Association
+167,AE,application entity
+168,AHU,air handling unit
+169,ANSI,American National Standards Institute
+170,APCI,application protocol control information
+171,APDU,application layer protocol data unit
+172,API,application program interface
+173,ARCNET,attached resource computer network
+174,ASE,application service element
+175,BAC,building automation and control
+176,BAS,building automation system
+177,BBMD,BACnet/IP broadcast management device
+178,BDT,broadcast distribution table
+179,B/IP,BACnet/IP
+180,B/IP-M,BACnet/IP multicast
+181,B/IPv6,BACnet/IPv6
+182,BVLC,BACnet virtual link control
+183,BVLCI,BACnet virtual link control information
+184,BVLL,BACnet virtual link layer
+185,C,conditional
+186,CA,certificate authoritiy
+187,CNF,confirm primitive
+188,COV,change of value
+189,CSML,control system modeling language
+190,CRC,cyclic redundancy check
+191,DA,local destination MAC layer address
+192,DADR,ultimate destination MAC layer address
+193,DER,data expecting reply (parameter in primitives and messages)
+194,DESFire,"Data Encryption Standard Fast, Innovative, Reliable and Secure"
+195,DHCP,Dynamic Host Configuration Protocol
+196,DID,ARCNET destination MAC address
+197,DLEN,1-octet length of ultimate destination MAC layer address
+198,DNET,2-octet ultimate destination network number
+199,DNS,Domain Name Service
+200,DSAP,LLC destination service access point 
+201,EIB,European Installation Bus
+202,EIBA,European Installation Bus Association
+203,EXEC,capable of executing a service request
+204,FDT,foreign device table
+205,HTTP,hypertext transfer protocol - RFC 2616
+206,IANA,The Internet Assigned Numbers Authority
+207,ICI,interface control information
+208,IEEE,Institute of Electrical and Electronics Engineers
+209,IL,ARCNET information length field
+210,IND,indication primitive
+211,INF,"""Infinity"", a unique binary pattern representing positive infinity "
+212,IP,Internet Protocol 
+213,IPv4,Internet Protocol version 4
+214,IPv6,Internet Protocol version 6 
+215,IRI,internationalized resource identifier 
+216,ISO,International Organization for Standardization
+217,JSON,JavaScript object notation
+218,JWT,JSON web token
+219,KNX,The Konnex System Specification: EIB is the core protocol of the Konnex standard. The Konnex System Specification reflects the current status for EIB.
+220,L,data link 
+221,LAN,local area network
+222,LPCI,link protocol control information
+223,LPDU,link protocol data unit
+224,LRC,Longitudinal Redundancy Check
+225,LSAP,link service access point
+226,LSDU,link service data unit
+227,M,mandatory
+228,M(=),mandatory 
+229,MA,medium access 
+230,MAC,medium access control
+231,MPCI,MAC protocol control information
+232,MPDU,MAC layer protocol data unit
+233,MSDU,MAC service data unit
+234,MS/TP,master-slave/token-passing
+235,N,network layer 
+236,,"""Not a Number"", a unique binary pattern representing an invalid number "
+237,NAT,Network Address Translation or Port Address Translation - RFC 2663
+238,NP,network priority
+239,NPCI,network protocol control information
+240,NPDU,network layer protocol data unit
+241,NRZ,non-return to zero
+242,NSAP,network service access point
+243,NSDU,network service data unit
+244,O,indicates that support of a property is optional
+245,OSI,open systems interconnection
+246,P,physical layer 
+247,PAC,ARCNET data packet header octet
+248,PACS,physical access control system
+249,PCI,protocol control information
+250,PDU,protocol data unit
+251,PICS,protocol implementation conformance statement
+252,PKI,public key infrastructure
+253,PPCI,physical layer protocol control information
+254,PPDU,physical protocol data unit
+255,PPP,Point-To-Point protocol
+256,PSDU,physical service data unit
+257,PTP,point-to-point
+258,R,indicates that a property shall be supported and readable using BACnet services
+259,RBAC,role-based access control
+260,REQ,request primitive
+261,REST,representational state transfer
+262,RFC,request for comment
+263,RSA,Rivest-Shamir-Adleman cryptosystem
+264,RSP,response primitive
+265,S,selection
+266,SA,local network source MAC layer address
+267,SAP,service access point
+268,SC,ARCNET system code 
+269,SDU,service data unit
+270,SIA,Security Industry Association
+271,SID,ARCNET source MAC address
+272,SLAAC,IPv6 Stateless Auto Address Configuration
+273,SLEN,1-octet length of original source MAC layer address
+274,SLIP,Serial Line Internet Protocol
+275,SNET,2-octet original source network number
+276,SOAP,simple object access protocol
+277,SPC,standard project committee
+278,SSAP,LLC source service access point 
+279,TLS,transport layer security 
+280,TSM,transaction state machine
+281,U,user option
+282,UART,universal asynchronous receiver/transmitter
+283,UDP,User Datagram Protocol
+284,URI,uniform resource identifier 
+285,URL,uniform resource locator 
+286,UTC,Universal Time Coordinated
+287,UUID,universally unique identifier 
+288,VAV,variable air volume
+289,VT,virtual terminal
+290,W,"indicates that a property shall be supported, readable, and writable using BACnet services"
+291,XML,extensible markup language
+292,AE,Alarm and Event
+293,ESUM,Enrollment Summary
+294,INFO,Information
+295,N,Notification
+296,DDB,Dynamic Device Building
+297,DM,Device Management
+298,DCC,Device Communication Control
+299,DOB,Device Object Building
+300,TS,Dynamic Time Synchronization
+301,RD,Reinitialize Device
+302,BR,Backup and Restore
+303,DS,Data Sharing
+304,RP,Read Property
+305,RPM,Read Property Multiple
+306,WP,Write Property
+307,WPM,Write Property Multiple
+308,SCHED,Scheduling
+309,NAE,Network Automation Engines
+310,NCE,Network Control Engines
+311,FEC,Field Equipment Controller
+312,FAC,Advanced Field Equipment Controller
+313,VMA,Variable air volume modular assembly
+314,IOM,Input/Output Modules

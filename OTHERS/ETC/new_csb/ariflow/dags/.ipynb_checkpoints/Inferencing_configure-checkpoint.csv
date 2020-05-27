@@ -1,0 +1,26 @@
+Variable,PATH
+PATH0,/data01/CSB/CSB_Jupyter/ATVT/BERT/CSB_Modelling/
+PATH1,/data01/CSB/CSB_Jupyter/ATVT/BERT/CSB_Modelling/csbpredictor
+PATH2,192.168.21.6
+PATH3,3306
+PATH4,root
+PATH5,ntels
+PATH6,nise
+PATH7,utf8
+PATH8,SELECT * FROM t_points where tagged = 'n' 
+PATH9,/data01/CSB/CSB_Jupyter/ATVT/Airflow/Inferencing_Airflow/
+PATH10,n
+PATH11,/data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/inferencing.txt
+PATH12,/data01/CSB/CSB_Jupyter/ATVT/CSB-NLpre/Dictionary/MeSH_two_word_lexicon3.csv
+PATH13,MeSH_
+PATH14,/data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/inferencing_result.txt
+PATH15,2
+PATH16,"update auto_tagging set tagged = %s, changed = %s, model_version = %s, id = %s, description = %s, name = %s, present_value = %s, point = %s, equip = %s, inference_time=%s where id = %s"
+PATH17,atvt_inferencing
+PATH18,atvt_gateway_inference DAG
+PATH19,*/2 * * * *
+PATH20,2020
+PATH21,3
+PATH22,30
+PATH23,dummy_task
+PATH24,at_gateway_inference_task

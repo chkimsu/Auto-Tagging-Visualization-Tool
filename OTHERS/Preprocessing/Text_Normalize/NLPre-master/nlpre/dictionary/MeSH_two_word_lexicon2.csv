@@ -1,0 +1,166 @@
+term,replacement
+A,	Air
+AHU,	Air Handling Unit
+AL,	Alarm
+AMI,	AMI
+ANC,	Anthracite
+AP,	Apparent Power
+AP,	Asphalt
+B,	Boiler
+BR,	Brine
+BT,	Bhutan
+C,	Concentration
+C,	Chemical
+C,	Chiller
+C9,	C9
+CE,	Current Electric
+CGW,	Cooling Water
+CO,	carbon monoxide
+CO2,	CO2
+COK,	cokes
+CP,	Concentric Plug
+CS,	State of Contact
+CT,	Cooling Tower
+CW,	Chilled Water
+DS,	Demand Side
+DT,	Duct
+DWC,	Domestic Water Supply Equipment
+DWH,	Domestic Hot Water Supply Equipment
+EA,	Exhaust Air
+EE,	Electric Equipment
+EG,	Exhaust Gas
+EGS,	Generation Equipment
+EHP,	Electric Heat Pump
+EIP,	Electric Incoming Panel
+EL,	electricity
+EN,	Generation
+EPB,	Electric Panelboard
+EPS,	Electric Power Supply Equipment
+ES,	Exhaust Smoke
+ESB,	Electric Switchboard
+ESS,	Energy Storage System
+ETC,	ETC
+ETC,	기타
+ETC,	ETC
+F,	Flow Rate Volumetric
+FA,	Flow Rate Volumetric Adjusted
+FAN,	Fan Blower
+FC,	Flow Rate Voumetric Cumulative
+FCU,	Fan Coil Unit
+FF,	Fire-Fighting Equipment
+Fq,	Frequency
+FW,	Feed Water
+G,	Gas
+GC,	Gas City
+GE,	Gas Engine
+GH,	Gas Consume Amount Accumulated
+GHP,	Gas Engine Heat Pump
+GSE,	Gas Supply Equipment
+GT,	Gas Turbine
+H,	Heat
+HC,	Heat Cumulative
+HCW,	Hot&Chilled Water
+HM,	Humadity
+HM,	Humidity
+HMS,	Humadity Setting
+HS,	Hi-sene
+HSC,	Heat Source Equipment Cooling
+HSH,	Heat Source Equipment Heating
+HST,	Heat Strage Tank
+HVAC,	Heating Ventilating & Air Conditioning Equipment
+HW,	Hot Water
+HWD,	Hot Water Domestic
+HX,	Heat Exchanger
+I,	Intensity of Illumination
+I,	Ice
+I,	Inlet
+IEQ,	IEQ
+IL,	Illuminance
+IR,	Infrared Ray
+IR,	Infrared Spectroscopy
+ISMT,	ismart
+IST,	Ice Strage Tank
+JF,	JetFuel
+L,	Level
+LA,	Lighitng Apparatus
+LC,	Lubricant
+LE,	Lighting Equipment
+LF,	Luminance Flux
+LI,	Light Intensity
+LL,	Light Luminance
+LNG,	LNG
+LPG,	LPG
+M,	Mass
+MA,	Mixed Air
+MT,	Menstruum
+MTW,	Medium Temperature Water
+NA,	NA
+NA,	NA
+NI,	Noise
+NPT,	Naphtha
+O,	Outlet
+O_IEQ,	Indoor Environment Quality
+O_PW,	Power
+OA,	Outdoor Air
+OAHU,	Out Air Handling Unit
+OBA,	B-A Oil
+OBB,	B-B Oil
+OBC,	B-C Oil
+OD,	Oil Diesel
+OG,	Gasoline
+OH,	Oil Heavy
+OIL,	Oil
+OL,	Lampoil
+OS,	State of Operation(On/Off)
+OSS,	상태설정입력
+P,	Pressure
+PAC,	Packaged Air Conditioner
+PC,	PetroleumCoke
+PD,	Pressure Difference
+PF,	Power Factor
+PM10,	Particulate Matter 10
+PM25,	Particulate Matter 2.5
+PMP,	Pump
+PP,	Propane
+PP,	Pipe
+R,	Refrigerant
+R,	Return
+RA,	Return Air
+RDW,	Roof Drain Water
+RM,	Room
+RW,	Reactive Power
+RW,	Reclimed Water
+RWH,	Reactive Power Accumulate
+RWHM,	Reactive Electric Power Interval
+S,	Speed
+S,	Supply
+SA,	Supply Air
+SC,	Sream Condensed
+SEM,	Solar Energy Management
+SFTC,	softcoal
+SINT,
+SMK,	Smoke
+SR,	Solar Radiation
+SS,	Supply Side
+ST,	Setting Temperature
+ST,	Steam
+SUBC,	subbituminouscoal
+T,	Temperature
+T,	Temperature
+THC,	Tempature&Humidity Chamber Thermo-Hydrostat
+TM,	Time
+TR,	Temperature Radiant
+TR,	Transformer
+TS,	Temperature Setting
+TVOC,	TOTAL Volatile Organic Compounds
+UW,	Ultrasonic Wave Sensor
+V,	Voltage
+VA,	Ventilating Air
+VOCs,	Volatile Organic Compounds
+W,	Electric Power
+WD,	Water Domestic
+WH,	Electric Power Accumulated
+WH,	Watt-hour
+WHM,	Electric Power interval
+WHM,	Watt-hour 15min
+WT,	Water Tank

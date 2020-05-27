@@ -1,0 +1,28 @@
+PATH0,/data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/training.txt
+PATH1,/data01/CSB/CSB_Jupyter/ATVT/CSB-NLpre/Dictionary/MeSH_two_word_lexicon3.csv
+PATH2,/data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/training_result.txt
+PATH3,/data01/CSB/CSB_Jupyter/ATVT/BERT/CSB_Modelling/data/
+PATH4,/data01/CSB/CSB_Jupyter/ATVT/BERT/CSB_Modelling/label/temp/
+PATH5,/data01/CSB/CSB_Jupyter/ATVT/BERT/CSB_Modelling/label/train/
+PATH6,/data01/CSB/CSB_Jupyter/ATVT/BERT/CSB_Modelling/label/test/
+PATH7,/data01/CSB/CSB_Jupyter/ATVT/BERT/CSB_Modelling/label/
+PATH8,/data01/CSB/CSB_Jupyter/ATVT/BERT/CSB_Modelling/csbpredictor
+PATH9,192.168.12.166
+PATH10,30037
+PATH11,root
+PATH12,ntels
+PATH13,nisbcp
+PATH14,utf8
+PATH15,"SELECT id,description, name, point, equip FROM auto_tagging"
+PATH16,500
+PATH17,2
+PATH18,5
+PATH19,atvt_training
+PATH20,atvt_gateway_inference DAG
+PATH21,* */2 * * *
+PATH22,2020
+PATH23,4
+PATH24,6
+PATH25,dummy_task
+PATH26,at_cloud_training_task
+PATH27,MeSH_

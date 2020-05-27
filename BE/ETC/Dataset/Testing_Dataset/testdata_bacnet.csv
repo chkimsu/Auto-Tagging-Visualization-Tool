@@ -1,0 +1,97 @@
+ID,NAME,DESCRIPTION,LABEL
+OBJECT_ANALOG_INPUT_3000323,NAE02/FC-2.NAE2-T2-FEC20.ZN1-T,West Electrical Room,exhaust air fan cmd
+OBJECT_ANALOG_INPUT_3000665,NAE02/FC-2.NAE2-T2-FEC5.ZN4-T,West Electrical Room,exhaust air fan cmd
+OBJECT_ANALOG_INPUT_3000909,NAE02/FC-1.NAE2-T1-FEC79.ZN1-T,West Electrical Room,exhaust air fan cmd
+OBJECT_ANALOG_INPUT_3000341,NAE02/FC-2.NAE2-T2-FEC21.ZN1-T,Outdoor Air Flow,outside air flow sp
+OBJECT_ANALOG_INPUT_3000693,NAE02/FC-2.NAE2-T2-FEC6.ZN1-T,Outdoor Air Flow,outside air flow sp
+OBJECT_ANALOG_INPUT_3000305,NAE02/FC-2.NAE2-T2-FEC19.ZN1-T,South West Corner,outside air humidity sensor
+OBJECT_ANALOG_INPUT_3000661,NAE02/FC-2.NAE2-T2-FEC5.ZN2-T,South West Corner,outside air humidity sensor
+OBJECT_ANALOG_INPUT_3000891,NAE02/FC-1.NAE2-T1-FEC78.ZN1-T,South West Corner,outside air humidity sensor
+OBJECT_ANALOG_INPUT_3000037,NAE02/FC-2.NAE2-T2-FEC31.ZN2-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000055,NAE02/FC-2.NAE2-T2-FEC32.ZN2-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000073,NAE02/FC-2.NAE2-T2-FEC33.ZN2-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000091,NAE02/FC-2.NAE2-T2-FEC34.ZN2-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000109,NAE02/FC-2.NAE2-T2-FEC35.ZN2-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000127,NAE02/FC-2.NAE2-T2-FEC36.ZN2-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000145,NAE02/FC-2.NAE2-T2-FEC37.ZN2-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000163,NAE02/FC-2.NAE2-T2-FEC38.ZN2-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000181,NAE02/FC-2.NAE2-T2-FEC39.ZN2-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000199,NAE02/FC-2.NAE2-T2-FEC40.ZN2-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000235,NAE02/FC-2.NAE2-T2-FEC41.ZN1-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000359,NAE02/FC-2.NAE2-T2-FEC22.ZN1-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000377,NAE02/FC-2.NAE2-T2-FEC23.ZN1-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000395,NAE02/FC-2.NAE2-T2-FEC24.ZN1-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000413,NAE02/FC-2.NAE2-T2-FEC25.ZN1-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000431,NAE02/FC-2.NAE2-T2-FEC26.ZN1-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000449,NAE02/FC-2.NAE2-T2-FEC27.ZN1-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000485,NAE02/FC-2.NAE2-T2-FEC28.ZN2-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000489,NAE02/FC-2.NAE2-T2-FEC28.ZN4-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000517,NAE02/FC-2.NAE2-T2-FEC10.ZN1-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000551,NAE02/FC-2.NAE2-T2-FEC12.ZN2-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000569,NAE02/FC-2.NAE2-T2-FEC13.ZN2-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000711,NAE02/FC-2.NAE2-T2-FEC7.ZN1-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000727,NAE02/FC-2.NAE2-T2-FEC8.ZN2-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000745,NAE02/FC-2.NAE2-T2-FEC9.ZN2-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000763,NAE02/FC-1.NAE2-T1-FEC71.ZN2-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000781,NAE02/FC-1.NAE2-T1-FEC72.ZN2-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000799,NAE02/FC-1.NAE2-T1-FEC73.ZN2-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000817,NAE02/FC-1.NAE2-T1-FEC74.ZN2-T,Zone 1 Temperature,outside air temperature sensor
+OBJECT_ANALOG_INPUT_3000241,NAE02/FC-2.NAE2-T2-FEC41.ZN4-T,Return Air CO2 Sensor A,return air co2 sensor
+OBJECT_ANALOG_INPUT_3000267,NAE02/FC-2.NAE2-T2-FEC17.ZN2-T,Return Air CO2 Sensor B,return air co2 sensor
+OBJECT_ANALOG_INPUT_3000269,NAE02/FC-2.NAE2-T2-FEC17.ZN1-T,Return Air CO2 Sensor C,return air co2 sensor
+OBJECT_ANALOG_INPUT_3000285,NAE02/FC-2.NAE2-T2-FEC18.ZN2-T,Return Air CO2 Sensor D,return air co2 sensor
+OBJECT_ANALOG_INPUT_3000287,NAE02/FC-2.NAE2-T2-FEC18.ZN1-T,Return Air CO2,return air co2 sensor
+OBJECT_ANALOG_INPUT_3000321,NAE02/FC-2.NAE2-T2-FEC20.ZN2-T,North East Corner,return air co2 sensor
+OBJECT_ANALOG_INPUT_3000589,NAE02/FC-2.NAE2-T2-FEC14.ZN1-T,Return Air CO2 Sensor A,return air co2 sensor
+OBJECT_ANALOG_INPUT_3000605,NAE02/FC-2.NAE2-T2-FEC15.ZN2-T,Return Air CO2 Sensor B,return air co2 sensor
+OBJECT_ANALOG_INPUT_3000607,NAE02/FC-2.NAE2-T2-FEC15.ZN1-T,Return Air CO2 Sensor C,return air co2 sensor
+OBJECT_ANALOG_INPUT_3000623,NAE02/FC-2.NAE2-T2-FEC16.ZN2-T,Return Air CO2 Sensor D,return air co2 sensor
+OBJECT_ANALOG_INPUT_3000625,NAE02/FC-2.NAE2-T2-FEC16.ZN1-T,Return Air CO2,return air co2 sensor
+OBJECT_ANALOG_INPUT_3000663,NAE02/FC-2.NAE2-T2-FEC5.ZN3-T,North East Corner,return air co2 sensor
+OBJECT_ANALOG_INPUT_3000837,NAE02/FC-1.NAE2-T1-FEC75.ZN1-T,Return Air CO2 Sensor A,return air co2 sensor
+OBJECT_ANALOG_INPUT_3000853,NAE02/FC-1.NAE2-T1-FEC76.ZN2-T,Return Air CO2 Sensor B,return air co2 sensor
+OBJECT_ANALOG_INPUT_3000855,NAE02/FC-1.NAE2-T1-FEC76.ZN1-T,Return Air CO2 Sensor C,return air co2 sensor
+OBJECT_ANALOG_INPUT_3000871,NAE02/FC-1.NAE2-T1-FEC77.ZN2-T,Return Air CO2 Sensor D,return air co2 sensor
+OBJECT_ANALOG_INPUT_3000873,NAE02/FC-1.NAE2-T1-FEC77.ZN1-T,Return Air CO2,return air co2 sensor
+OBJECT_ANALOG_INPUT_3000889,NAE02/FC-1.NAE2-T1-FEC78.ZN2-T,*** OFF SET OF 1 DEG ** Sensor replaced,return air co2 sensor
+OBJECT_ANALOG_INPUT_3000907,NAE02/FC-1.NAE2-T1-FEC79.ZN2-T,North East Corner,return air co2 sensor
+OBJECT_ANALOG_INPUT_3000093,NAE02/FC-2.NAE2-T2-FEC34.ZN1-T,Compartment Unit Temp,return air damper cmd
+OBJECT_ANALOG_INPUT_3000339,NAE02/FC-2.NAE2-T2-FEC21.ZN2-T,Compartment Unit Temp,return air damper cmd
+OBJECT_ANALOG_INPUT_3000691,NAE02/FC-2.NAE2-T2-FEC6.ZN2-T,Compartment Unit Temp,return air damper cmd
+OBJECT_ANALOG_INPUT_3000925,NAE02/FC-1.NAE2-T1-FEC80.ZN2-T,Compartment Unit Temp,return air damper cmd
+OBJECT_ANALOG_INPUT_3000019,NAE02/FC-2.NAE2-T2-FEC30.ZN2-T,15th floor mechanical room,return air flow sensor
+OBJECT_ANALOG_INPUT_3000237,NAE02/FC-2.NAE2-T2-FEC41.ZN2-T,Floor Static Pressure 1,return air pressure sensor
+OBJECT_ANALOG_INPUT_3000239,NAE02/FC-2.NAE2-T2-FEC41.ZN3-T,Floor Static Pressure 2,return air pressure sensor
+OBJECT_ANALOG_INPUT_3000571,NAE02/FC-2.NAE2-T2-FEC13.ZN1-T,Floor Static Pressure 1,return air pressure sensor
+OBJECT_ANALOG_INPUT_3000587,NAE02/FC-2.NAE2-T2-FEC14.ZN2-T,Floor Static Pressure 2,return air pressure sensor
+OBJECT_ANALOG_INPUT_3000819,NAE02/FC-1.NAE2-T1-FEC74.ZN1-T,Floor Static Pressure 1,return air pressure sensor
+OBJECT_ANALOG_INPUT_3000835,NAE02/FC-1.NAE2-T1-FEC75.ZN2-T,Floor Static Pressure 2,return air pressure sensor
+OBJECT_ANALOG_INPUT_3000303,NAE02/FC-2.NAE2-T2-FEC19.ZN2-T,Supply Air Temperature,return air temperature sensor
+OBJECT_ANALOG_INPUT_3000659,NAE02/FC-2.NAE2-T2-FEC5.ZN1-T,Supply Air Temperature,return air temperature sensor
+OBJECT_ANALOG_INPUT_3000021,NAE02/FC-2.NAE2-T2-FEC30.ZN1-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000039,NAE02/FC-2.NAE2-T2-FEC31.ZN1-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000057,NAE02/FC-2.NAE2-T2-FEC32.ZN1-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000075,NAE02/FC-2.NAE2-T2-FEC33.ZN1-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000111,NAE02/FC-2.NAE2-T2-FEC35.ZN1-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000129,NAE02/FC-2.NAE2-T2-FEC36.ZN1-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000147,NAE02/FC-2.NAE2-T2-FEC37.ZN1-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000165,NAE02/FC-2.NAE2-T2-FEC38.ZN1-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000183,NAE02/FC-2.NAE2-T2-FEC39.ZN1-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000201,NAE02/FC-2.NAE2-T2-FEC40.ZN1-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000357,NAE02/FC-2.NAE2-T2-FEC22.ZN2-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000375,NAE02/FC-2.NAE2-T2-FEC23.ZN2-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000393,NAE02/FC-2.NAE2-T2-FEC24.ZN2-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000411,NAE02/FC-2.NAE2-T2-FEC25.ZN2-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000429,NAE02/FC-2.NAE2-T2-FEC26.ZN2-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000447,NAE02/FC-2.NAE2-T2-FEC27.ZN2-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000483,NAE02/FC-2.NAE2-T2-FEC28.ZN1-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000487,NAE02/FC-2.NAE2-T2-FEC28.ZN3-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000515,NAE02/FC-2.NAE2-T2-FEC10.ZN2-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000535,NAE02/FC-2.NAE2-T2-FEC11.ZN1-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000553,NAE02/FC-2.NAE2-T2-FEC12.ZN1-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000709,NAE02/FC-2.NAE2-T2-FEC7.ZN2-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000729,NAE02/FC-2.NAE2-T2-FEC8.ZN1-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000747,NAE02/FC-2.NAE2-T2-FEC9.ZN1-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000765,NAE02/FC-1.NAE2-T1-FEC71.ZN1-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000783,NAE02/FC-1.NAE2-T1-FEC72.ZN1-T,Zone2 Temperature,zone?air?temperature?sensor
+OBJECT_ANALOG_INPUT_3000801,NAE02/FC-1.NAE2-T1-FEC73.ZN1-T,Zone2 Temperature,zone?air?temperature?sensor

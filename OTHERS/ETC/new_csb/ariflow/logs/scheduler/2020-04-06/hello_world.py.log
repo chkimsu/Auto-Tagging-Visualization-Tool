@@ -1,0 +1,865 @@
+[2020-04-06 09:00:45,411] {scheduler_job.py:153} INFO - Started process (PID=13955) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:00:45,413] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:00:45,413] {logging_mixin.py:112} INFO - [2020-04-06 09:00:45,413] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:00:45,418] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:00:45,540] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.129 seconds
+[2020-04-06 09:01:35,466] {scheduler_job.py:153} INFO - Started process (PID=14100) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:01:35,481] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:01:35,481] {logging_mixin.py:112} INFO - [2020-04-06 09:01:35,481] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:01:35,502] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:01:35,716] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.250 seconds
+[2020-04-06 09:02:25,762] {scheduler_job.py:153} INFO - Started process (PID=14211) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:02:25,764] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:02:25,764] {logging_mixin.py:112} INFO - [2020-04-06 09:02:25,764] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:02:25,769] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:02:25,899] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.137 seconds
+[2020-04-06 09:03:15,819] {scheduler_job.py:153} INFO - Started process (PID=14323) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:03:15,821] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:03:15,821] {logging_mixin.py:112} INFO - [2020-04-06 09:03:15,821] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:03:15,826] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:03:15,971] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.152 seconds
+[2020-04-06 09:04:06,013] {scheduler_job.py:153} INFO - Started process (PID=14438) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:04:06,014] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:04:06,015] {logging_mixin.py:112} INFO - [2020-04-06 09:04:06,015] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:04:06,019] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:04:06,135] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.122 seconds
+[2020-04-06 09:04:55,931] {scheduler_job.py:153} INFO - Started process (PID=14522) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:04:55,932] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:04:55,933] {logging_mixin.py:112} INFO - [2020-04-06 09:04:55,933] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:04:55,938] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:04:56,076] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.145 seconds
+[2020-04-06 09:05:45,989] {scheduler_job.py:153} INFO - Started process (PID=14658) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:05:45,991] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:05:45,991] {logging_mixin.py:112} INFO - [2020-04-06 09:05:45,991] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:05:45,996] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:05:46,128] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.138 seconds
+[2020-04-06 09:06:36,160] {scheduler_job.py:153} INFO - Started process (PID=14769) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:06:36,162] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:06:36,162] {logging_mixin.py:112} INFO - [2020-04-06 09:06:36,162] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:06:36,166] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:06:36,298] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.138 seconds
+[2020-04-06 09:07:26,093] {scheduler_job.py:153} INFO - Started process (PID=14903) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:07:26,095] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:07:26,095] {logging_mixin.py:112} INFO - [2020-04-06 09:07:26,095] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:07:26,101] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:07:26,239] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.146 seconds
+[2020-04-06 09:08:16,151] {scheduler_job.py:153} INFO - Started process (PID=15015) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:08:16,153] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:08:16,153] {logging_mixin.py:112} INFO - [2020-04-06 09:08:16,153] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:08:16,158] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:08:16,280] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.129 seconds
+[2020-04-06 09:09:06,211] {scheduler_job.py:153} INFO - Started process (PID=15131) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:09:06,214] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:09:06,214] {logging_mixin.py:112} INFO - [2020-04-06 09:09:06,214] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:09:06,218] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:09:06,565] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.354 seconds
+[2020-04-06 09:09:56,270] {scheduler_job.py:153} INFO - Started process (PID=15214) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:09:56,272] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:09:56,272] {logging_mixin.py:112} INFO - [2020-04-06 09:09:56,272] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:09:56,277] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:09:56,395] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.125 seconds
+[2020-04-06 09:10:46,330] {scheduler_job.py:153} INFO - Started process (PID=15355) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:10:46,332] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:10:46,332] {logging_mixin.py:112} INFO - [2020-04-06 09:10:46,332] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:10:46,338] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:10:46,468] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.139 seconds
+[2020-04-06 09:11:36,500] {scheduler_job.py:153} INFO - Started process (PID=15466) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:11:36,503] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:11:36,503] {logging_mixin.py:112} INFO - [2020-04-06 09:11:36,503] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:11:36,509] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:11:36,629] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.128 seconds
+[2020-04-06 09:12:26,890] {scheduler_job.py:153} INFO - Started process (PID=15600) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:12:26,892] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:12:26,892] {logging_mixin.py:112} INFO - [2020-04-06 09:12:26,892] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:12:26,897] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:12:27,010] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.121 seconds
+[2020-04-06 09:13:16,948] {scheduler_job.py:153} INFO - Started process (PID=15712) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:13:16,950] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:13:16,950] {logging_mixin.py:112} INFO - [2020-04-06 09:13:16,950] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:13:16,955] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:13:17,088] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.140 seconds
+[2020-04-06 09:14:07,142] {scheduler_job.py:153} INFO - Started process (PID=15827) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:14:07,144] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:14:07,144] {logging_mixin.py:112} INFO - [2020-04-06 09:14:07,144] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:14:07,150] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:14:07,269] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.127 seconds
+[2020-04-06 09:14:58,200] {scheduler_job.py:153} INFO - Started process (PID=15910) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:14:58,202] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:14:58,202] {logging_mixin.py:112} INFO - [2020-04-06 09:14:58,202] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:14:58,207] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:14:58,328] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.128 seconds
+[2020-04-06 09:15:48,258] {scheduler_job.py:153} INFO - Started process (PID=16047) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:15:48,261] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:15:48,261] {logging_mixin.py:112} INFO - [2020-04-06 09:15:48,261] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:15:48,266] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:15:48,400] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.142 seconds
+[2020-04-06 09:16:38,430] {scheduler_job.py:153} INFO - Started process (PID=16158) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:16:38,432] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:16:38,432] {logging_mixin.py:112} INFO - [2020-04-06 09:16:38,432] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:16:38,438] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:16:38,586] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.156 seconds
+[2020-04-06 09:17:28,409] {scheduler_job.py:153} INFO - Started process (PID=16292) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:17:28,411] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:17:28,411] {logging_mixin.py:112} INFO - [2020-04-06 09:17:28,411] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:17:28,416] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:17:28,538] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.129 seconds
+[2020-04-06 09:18:18,521] {scheduler_job.py:153} INFO - Started process (PID=16404) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:18:18,524] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:18:18,524] {logging_mixin.py:112} INFO - [2020-04-06 09:18:18,524] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:18:18,529] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:18:18,653] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.132 seconds
+[2020-04-06 09:19:08,586] {scheduler_job.py:153} INFO - Started process (PID=16519) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:19:08,589] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:19:08,590] {logging_mixin.py:112} INFO - [2020-04-06 09:19:08,590] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:19:08,595] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:19:08,816] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.230 seconds
+[2020-04-06 09:19:58,722] {scheduler_job.py:153} INFO - Started process (PID=16602) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:19:58,723] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:19:58,724] {logging_mixin.py:112} INFO - [2020-04-06 09:19:58,724] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:19:58,728] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:19:58,846] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.125 seconds
+[2020-04-06 09:20:48,818] {scheduler_job.py:153} INFO - Started process (PID=16743) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:20:48,820] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:20:48,820] {logging_mixin.py:112} INFO - [2020-04-06 09:20:48,820] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:20:48,825] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:20:48,950] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.132 seconds
+[2020-04-06 09:21:38,990] {scheduler_job.py:153} INFO - Started process (PID=16855) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:21:38,992] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:21:38,992] {logging_mixin.py:112} INFO - [2020-04-06 09:21:38,992] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:21:38,997] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:21:39,116] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.126 seconds
+[2020-04-06 09:22:28,922] {scheduler_job.py:153} INFO - Started process (PID=16978) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:22:28,923] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:22:28,924] {logging_mixin.py:112} INFO - [2020-04-06 09:22:28,924] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:22:28,928] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:22:29,056] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.135 seconds
+[2020-04-06 09:23:18,981] {scheduler_job.py:153} INFO - Started process (PID=17104) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:23:18,983] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:23:18,983] {logging_mixin.py:112} INFO - [2020-04-06 09:23:18,983] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:23:18,989] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:23:19,108] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.127 seconds
+[2020-04-06 09:24:09,040] {scheduler_job.py:153} INFO - Started process (PID=17195) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:24:09,042] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:24:09,042] {logging_mixin.py:112} INFO - [2020-04-06 09:24:09,042] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:24:09,048] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:24:09,279] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.239 seconds
+[2020-04-06 09:24:59,611] {scheduler_job.py:153} INFO - Started process (PID=17304) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:24:59,613] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:24:59,613] {logging_mixin.py:112} INFO - [2020-04-06 09:24:59,613] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:24:59,617] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:24:59,739] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.128 seconds
+[2020-04-06 09:25:49,658] {scheduler_job.py:153} INFO - Started process (PID=17416) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:25:49,660] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:25:49,660] {logging_mixin.py:112} INFO - [2020-04-06 09:25:49,660] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:25:49,665] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:25:49,790] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.132 seconds
+[2020-04-06 09:26:39,709] {scheduler_job.py:153} INFO - Started process (PID=17551) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:26:39,711] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:26:39,711] {logging_mixin.py:112} INFO - [2020-04-06 09:26:39,711] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:26:39,715] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:26:39,966] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.257 seconds
+[2020-04-06 09:27:29,761] {scheduler_job.py:153} INFO - Started process (PID=17664) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:27:29,763] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:27:29,763] {logging_mixin.py:112} INFO - [2020-04-06 09:27:29,763] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:27:29,769] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:27:29,906] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.145 seconds
+[2020-04-06 09:28:19,831] {scheduler_job.py:153} INFO - Started process (PID=17799) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:28:19,833] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:28:19,833] {logging_mixin.py:112} INFO - [2020-04-06 09:28:19,833] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:28:19,838] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:28:19,968] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.138 seconds
+[2020-04-06 09:29:09,878] {scheduler_job.py:153} INFO - Started process (PID=17891) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:29:09,880] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:29:09,881] {logging_mixin.py:112} INFO - [2020-04-06 09:29:09,881] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:29:09,886] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:29:10,107] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.228 seconds
+[2020-04-06 09:29:59,930] {scheduler_job.py:153} INFO - Started process (PID=17998) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:29:59,933] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:29:59,933] {logging_mixin.py:112} INFO - [2020-04-06 09:29:59,933] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:29:59,937] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:30:00,059] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.128 seconds
+[2020-04-06 09:30:50,389] {scheduler_job.py:153} INFO - Started process (PID=18114) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:30:50,391] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:30:50,392] {logging_mixin.py:112} INFO - [2020-04-06 09:30:50,391] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:30:50,396] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:30:50,509] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.119 seconds
+[2020-04-06 09:31:40,562] {scheduler_job.py:153} INFO - Started process (PID=18249) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:31:40,563] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:31:40,564] {logging_mixin.py:112} INFO - [2020-04-06 09:31:40,563] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:31:40,568] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:31:40,691] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.129 seconds
+[2020-04-06 09:32:30,500] {scheduler_job.py:153} INFO - Started process (PID=18361) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:32:30,502] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:32:30,502] {logging_mixin.py:112} INFO - [2020-04-06 09:32:30,502] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:32:30,507] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:32:30,646] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.146 seconds
+[2020-04-06 09:33:20,551] {scheduler_job.py:153} INFO - Started process (PID=18497) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:33:20,553] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:33:20,553] {logging_mixin.py:112} INFO - [2020-04-06 09:33:20,553] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:33:20,559] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:33:20,687] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.136 seconds
+[2020-04-06 09:34:10,951] {scheduler_job.py:153} INFO - Started process (PID=18589) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:34:10,953] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:34:10,953] {logging_mixin.py:112} INFO - [2020-04-06 09:34:10,953] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:34:10,957] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:34:11,099] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.148 seconds
+[2020-04-06 09:35:00,668] {scheduler_job.py:153} INFO - Started process (PID=18698) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:35:00,669] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:35:00,670] {logging_mixin.py:112} INFO - [2020-04-06 09:35:00,670] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:35:00,675] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:35:00,799] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.131 seconds
+[2020-04-06 09:35:50,720] {scheduler_job.py:153} INFO - Started process (PID=18810) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:35:50,722] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:35:50,722] {logging_mixin.py:112} INFO - [2020-04-06 09:35:50,722] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:35:50,727] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:35:50,849] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.129 seconds
+[2020-04-06 09:36:40,892] {scheduler_job.py:153} INFO - Started process (PID=18945) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:36:40,895] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:36:40,895] {logging_mixin.py:112} INFO - [2020-04-06 09:36:40,895] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:36:40,899] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:36:41,034] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.142 seconds
+[2020-04-06 09:37:30,830] {scheduler_job.py:153} INFO - Started process (PID=19056) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:37:30,832] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:37:30,832] {logging_mixin.py:112} INFO - [2020-04-06 09:37:30,832] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:37:30,837] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:37:30,955] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.124 seconds
+[2020-04-06 09:38:20,942] {scheduler_job.py:153} INFO - Started process (PID=19191) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:38:20,943] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:38:20,944] {logging_mixin.py:112} INFO - [2020-04-06 09:38:20,944] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:38:20,948] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:38:21,776] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.834 seconds
+[2020-04-06 09:39:11,110] {scheduler_job.py:153} INFO - Started process (PID=19286) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:39:11,112] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:39:11,112] {logging_mixin.py:112} INFO - [2020-04-06 09:39:11,112] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:39:11,117] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:39:11,245] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.135 seconds
+[2020-04-06 09:40:01,059] {scheduler_job.py:153} INFO - Started process (PID=19377) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:40:01,061] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:40:01,061] {logging_mixin.py:112} INFO - [2020-04-06 09:40:01,061] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:40:01,066] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:40:01,197] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.138 seconds
+[2020-04-06 09:40:51,231] {scheduler_job.py:153} INFO - Started process (PID=19505) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:40:51,233] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:40:51,233] {logging_mixin.py:112} INFO - [2020-04-06 09:40:51,233] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:40:51,238] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:40:51,358] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.127 seconds
+[2020-04-06 09:41:41,432] {scheduler_job.py:153} INFO - Started process (PID=19617) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:41:41,433] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:41:41,434] {logging_mixin.py:112} INFO - [2020-04-06 09:41:41,434] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:41:41,439] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:41:41,576] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.145 seconds
+[2020-04-06 09:42:31,348] {scheduler_job.py:153} INFO - Started process (PID=19752) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:42:31,350] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:42:31,351] {logging_mixin.py:112} INFO - [2020-04-06 09:42:31,350] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:42:31,356] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:42:31,495] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.147 seconds
+[2020-04-06 09:43:21,400] {scheduler_job.py:153} INFO - Started process (PID=19863) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:43:21,402] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:43:21,403] {logging_mixin.py:112} INFO - [2020-04-06 09:43:21,402] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:43:21,407] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:43:21,521] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.120 seconds
+[2020-04-06 09:44:11,571] {scheduler_job.py:153} INFO - Started process (PID=19991) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:44:11,574] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:44:11,574] {logging_mixin.py:112} INFO - [2020-04-06 09:44:11,574] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:44:11,581] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:44:11,706] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.135 seconds
+[2020-04-06 09:45:01,509] {scheduler_job.py:153} INFO - Started process (PID=20062) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:45:01,511] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:45:01,511] {logging_mixin.py:112} INFO - [2020-04-06 09:45:01,511] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:45:01,516] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:45:01,638] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.129 seconds
+[2020-04-06 09:45:51,561] {scheduler_job.py:153} INFO - Started process (PID=20198) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:45:51,563] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:45:51,564] {logging_mixin.py:112} INFO - [2020-04-06 09:45:51,564] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:45:51,568] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:45:51,678] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.117 seconds
+[2020-04-06 09:46:41,619] {scheduler_job.py:153} INFO - Started process (PID=20310) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:46:41,621] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:46:41,621] {logging_mixin.py:112} INFO - [2020-04-06 09:46:41,621] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:46:41,626] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:46:41,870] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.251 seconds
+[2020-04-06 09:47:32,017] {scheduler_job.py:153} INFO - Started process (PID=20445) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:47:32,019] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:47:32,020] {logging_mixin.py:112} INFO - [2020-04-06 09:47:32,019] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:47:32,024] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:47:32,157] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.140 seconds
+[2020-04-06 09:48:22,601] {scheduler_job.py:153} INFO - Started process (PID=20557) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:48:22,603] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:48:22,604] {logging_mixin.py:112} INFO - [2020-04-06 09:48:22,604] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:48:22,608] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:48:22,739] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.138 seconds
+[2020-04-06 09:49:12,660] {scheduler_job.py:153} INFO - Started process (PID=20684) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:49:12,662] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:49:12,662] {logging_mixin.py:112} INFO - [2020-04-06 09:49:12,662] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:49:12,667] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:49:12,889] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.229 seconds
+[2020-04-06 09:50:03,228] {scheduler_job.py:153} INFO - Started process (PID=20787) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:50:03,230] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:50:03,230] {logging_mixin.py:112} INFO - [2020-04-06 09:50:03,230] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:50:03,235] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:50:03,638] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.410 seconds
+[2020-04-06 09:50:53,280] {scheduler_job.py:153} INFO - Started process (PID=20895) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:50:53,282] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:50:53,283] {logging_mixin.py:112} INFO - [2020-04-06 09:50:53,282] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:50:53,288] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:50:53,410] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.129 seconds
+[2020-04-06 09:51:43,482] {scheduler_job.py:153} INFO - Started process (PID=21006) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:51:43,483] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:51:43,483] {logging_mixin.py:112} INFO - [2020-04-06 09:51:43,483] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:51:43,488] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:51:44,735] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 1.254 seconds
+[2020-04-06 09:52:33,392] {scheduler_job.py:153} INFO - Started process (PID=21144) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:52:33,395] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:52:33,395] {logging_mixin.py:112} INFO - [2020-04-06 09:52:33,395] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:52:33,399] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:52:33,516] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.124 seconds
+[2020-04-06 09:53:23,451] {scheduler_job.py:153} INFO - Started process (PID=21255) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:53:23,452] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:53:23,453] {logging_mixin.py:112} INFO - [2020-04-06 09:53:23,453] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:53:23,458] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:53:23,589] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.138 seconds
+[2020-04-06 09:54:13,508] {scheduler_job.py:153} INFO - Started process (PID=21386) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:54:13,510] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:54:13,510] {logging_mixin.py:112} INFO - [2020-04-06 09:54:13,510] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:54:13,515] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:54:13,749] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.241 seconds
+[2020-04-06 09:55:03,761] {scheduler_job.py:153} INFO - Started process (PID=21483) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:55:03,763] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:55:03,763] {logging_mixin.py:112} INFO - [2020-04-06 09:55:03,763] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:55:03,767] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:55:03,889] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.128 seconds
+[2020-04-06 09:55:53,819] {scheduler_job.py:153} INFO - Started process (PID=21593) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:55:53,820] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:55:53,821] {logging_mixin.py:112} INFO - [2020-04-06 09:55:53,820] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:55:53,825] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:55:53,950] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.131 seconds
+[2020-04-06 09:56:43,872] {scheduler_job.py:153} INFO - Started process (PID=21704) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:56:43,873] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:56:43,874] {logging_mixin.py:112} INFO - [2020-04-06 09:56:43,874] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:56:43,878] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:56:44,126] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.255 seconds
+[2020-04-06 09:57:34,069] {scheduler_job.py:153} INFO - Started process (PID=21839) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:57:34,071] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:57:34,071] {logging_mixin.py:112} INFO - [2020-04-06 09:57:34,071] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:57:34,076] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:57:34,199] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.130 seconds
+[2020-04-06 09:58:24,128] {scheduler_job.py:153} INFO - Started process (PID=21950) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:58:24,130] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:58:24,130] {logging_mixin.py:112} INFO - [2020-04-06 09:58:24,130] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:58:24,136] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:58:24,259] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.131 seconds
+[2020-04-06 09:59:14,319] {scheduler_job.py:153} INFO - Started process (PID=22084) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:59:14,321] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 09:59:14,321] {logging_mixin.py:112} INFO - [2020-04-06 09:59:14,321] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:59:14,325] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 09:59:15,496] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 1.178 seconds
+[2020-04-06 10:00:04,231] {scheduler_job.py:153} INFO - Started process (PID=22180) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:00:04,233] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:00:04,233] {logging_mixin.py:112} INFO - [2020-04-06 10:00:04,233] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:00:04,238] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:00:05,017] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.786 seconds
+[2020-04-06 10:00:54,358] {scheduler_job.py:153} INFO - Started process (PID=22264) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:00:54,360] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:00:54,360] {logging_mixin.py:112} INFO - [2020-04-06 10:00:54,360] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:00:54,365] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:00:55,827] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 1.469 seconds
+[2020-04-06 10:01:44,530] {scheduler_job.py:153} INFO - Started process (PID=22410) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:01:44,532] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:01:44,532] {logging_mixin.py:112} INFO - [2020-04-06 10:01:44,532] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:01:44,537] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:01:44,667] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.137 seconds
+[2020-04-06 10:02:34,638] {scheduler_job.py:153} INFO - Started process (PID=22522) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:02:34,640] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:02:34,640] {logging_mixin.py:112} INFO - [2020-04-06 10:02:34,640] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:02:34,645] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:02:34,770] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.132 seconds
+[2020-04-06 10:03:24,690] {scheduler_job.py:153} INFO - Started process (PID=22657) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:03:24,692] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:03:24,692] {logging_mixin.py:112} INFO - [2020-04-06 10:03:24,692] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:03:24,697] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:03:24,836] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.145 seconds
+[2020-04-06 10:04:14,749] {scheduler_job.py:153} INFO - Started process (PID=22769) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:04:14,752] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:04:14,752] {logging_mixin.py:112} INFO - [2020-04-06 10:04:14,752] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:04:14,756] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:04:14,986] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.238 seconds
+[2020-04-06 10:05:04,869] {scheduler_job.py:153} INFO - Started process (PID=22884) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:05:04,871] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:05:04,871] {logging_mixin.py:112} INFO - [2020-04-06 10:05:04,871] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:05:04,876] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:05:05,005] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.136 seconds
+[2020-04-06 10:05:55,252] {scheduler_job.py:153} INFO - Started process (PID=22969) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:05:55,253] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:05:55,254] {logging_mixin.py:112} INFO - [2020-04-06 10:05:55,254] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:05:55,258] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:05:55,388] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.136 seconds
+[2020-04-06 10:06:45,310] {scheduler_job.py:153} INFO - Started process (PID=23105) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:06:45,312] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:06:45,312] {logging_mixin.py:112} INFO - [2020-04-06 10:06:45,312] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:06:45,317] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:06:45,559] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.249 seconds
+[2020-04-06 10:07:35,369] {scheduler_job.py:153} INFO - Started process (PID=23216) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:07:35,370] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:07:35,371] {logging_mixin.py:112} INFO - [2020-04-06 10:07:35,371] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:07:35,376] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:07:35,490] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.121 seconds
+[2020-04-06 10:08:25,421] {scheduler_job.py:153} INFO - Started process (PID=23351) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:08:25,423] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:08:25,423] {logging_mixin.py:112} INFO - [2020-04-06 10:08:25,423] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:08:25,428] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:08:25,575] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.154 seconds
+[2020-04-06 10:09:15,479] {scheduler_job.py:153} INFO - Started process (PID=23463) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:09:15,481] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:09:15,481] {logging_mixin.py:112} INFO - [2020-04-06 10:09:15,481] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:09:15,486] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:09:15,711] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.232 seconds
+[2020-04-06 10:10:05,531] {scheduler_job.py:153} INFO - Started process (PID=23586) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:10:05,533] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:10:05,533] {logging_mixin.py:112} INFO - [2020-04-06 10:10:05,533] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:10:05,538] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:10:06,371] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.840 seconds
+[2020-04-06 10:10:55,589] {scheduler_job.py:153} INFO - Started process (PID=23670) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:10:55,592] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:10:55,592] {logging_mixin.py:112} INFO - [2020-04-06 10:10:55,592] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:10:55,596] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:10:55,707] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.118 seconds
+[2020-04-06 10:11:45,762] {scheduler_job.py:153} INFO - Started process (PID=23806) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:11:45,764] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:11:45,764] {logging_mixin.py:112} INFO - [2020-04-06 10:11:45,764] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:11:45,770] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:11:45,914] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.152 seconds
+[2020-04-06 10:12:35,699] {scheduler_job.py:153} INFO - Started process (PID=23917) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:12:35,701] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:12:35,701] {logging_mixin.py:112} INFO - [2020-04-06 10:12:35,701] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:12:35,706] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:12:35,830] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.131 seconds
+[2020-04-06 10:13:25,752] {scheduler_job.py:153} INFO - Started process (PID=24052) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:13:25,754] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:13:25,754] {logging_mixin.py:112} INFO - [2020-04-06 10:13:25,754] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:13:25,759] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:13:25,880] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.129 seconds
+[2020-04-06 10:14:15,829] {scheduler_job.py:153} INFO - Started process (PID=24163) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:14:15,830] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:14:15,831] {logging_mixin.py:112} INFO - [2020-04-06 10:14:15,831] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:14:15,836] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:14:16,099] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.270 seconds
+[2020-04-06 10:15:06,012] {scheduler_job.py:153} INFO - Started process (PID=24278) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:15:06,014] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:15:06,014] {logging_mixin.py:112} INFO - [2020-04-06 10:15:06,014] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:15:06,019] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:15:06,150] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.138 seconds
+[2020-04-06 10:15:56,510] {scheduler_job.py:153} INFO - Started process (PID=24363) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:15:56,512] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:15:56,512] {logging_mixin.py:112} INFO - [2020-04-06 10:15:56,512] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:15:56,517] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:15:56,645] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.135 seconds
+[2020-04-06 10:16:46,569] {scheduler_job.py:153} INFO - Started process (PID=24498) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:16:46,571] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:16:46,571] {logging_mixin.py:112} INFO - [2020-04-06 10:16:46,571] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:16:46,576] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:16:46,817] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.248 seconds
+[2020-04-06 10:17:36,941] {scheduler_job.py:153} INFO - Started process (PID=24609) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:17:36,943] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:17:36,943] {logging_mixin.py:112} INFO - [2020-04-06 10:17:36,943] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:17:36,948] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:17:37,552] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.611 seconds
+[2020-04-06 10:18:27,121] {scheduler_job.py:153} INFO - Started process (PID=24745) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:18:27,123] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:18:27,124] {logging_mixin.py:112} INFO - [2020-04-06 10:18:27,123] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:18:27,128] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:18:27,250] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.129 seconds
+[2020-04-06 10:19:17,181] {scheduler_job.py:153} INFO - Started process (PID=24857) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:19:17,183] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:19:17,184] {logging_mixin.py:112} INFO - [2020-04-06 10:19:17,184] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:19:17,190] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:19:17,448] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.267 seconds
+[2020-04-06 10:20:07,734] {scheduler_job.py:153} INFO - Started process (PID=24965) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:20:07,743] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:20:07,743] {logging_mixin.py:112} INFO - [2020-04-06 10:20:07,743] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:20:07,764] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:20:08,149] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.416 seconds
+[2020-04-06 10:20:57,828] {scheduler_job.py:153} INFO - Started process (PID=25061) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:20:57,831] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:20:57,831] {logging_mixin.py:112} INFO - [2020-04-06 10:20:57,831] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:20:57,835] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:20:57,958] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.130 seconds
+[2020-04-06 10:21:47,992] {scheduler_job.py:153} INFO - Started process (PID=25172) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:21:47,994] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:21:47,994] {logging_mixin.py:112} INFO - [2020-04-06 10:21:47,994] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:21:47,999] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:21:48,130] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.138 seconds
+[2020-04-06 10:22:37,938] {scheduler_job.py:153} INFO - Started process (PID=25311) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:22:37,940] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:22:37,941] {logging_mixin.py:112} INFO - [2020-04-06 10:22:37,941] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:22:37,945] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:22:38,060] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.121 seconds
+[2020-04-06 10:23:28,400] {scheduler_job.py:153} INFO - Started process (PID=25421) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:23:28,402] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:23:28,403] {logging_mixin.py:112} INFO - [2020-04-06 10:23:28,403] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:23:28,407] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:23:28,530] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.131 seconds
+[2020-04-06 10:24:18,452] {scheduler_job.py:153} INFO - Started process (PID=25556) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:24:18,454] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:24:18,454] {logging_mixin.py:112} INFO - [2020-04-06 10:24:18,454] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:24:18,459] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:24:18,697] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.246 seconds
+[2020-04-06 10:25:08,510] {scheduler_job.py:153} INFO - Started process (PID=25650) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:25:08,512] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:25:08,512] {logging_mixin.py:112} INFO - [2020-04-06 10:25:08,512] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:25:08,516] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:25:08,648] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.138 seconds
+[2020-04-06 10:25:58,608] {scheduler_job.py:153} INFO - Started process (PID=25757) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:25:58,610] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:25:58,610] {logging_mixin.py:112} INFO - [2020-04-06 10:25:58,610] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:25:58,615] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:25:58,740] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.131 seconds
+[2020-04-06 10:26:48,780] {scheduler_job.py:153} INFO - Started process (PID=25898) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:26:48,782] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:26:48,782] {logging_mixin.py:112} INFO - [2020-04-06 10:26:48,782] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:26:48,788] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:26:48,916] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.137 seconds
+[2020-04-06 10:27:38,718] {scheduler_job.py:153} INFO - Started process (PID=26036) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:27:38,720] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:27:38,720] {logging_mixin.py:112} INFO - [2020-04-06 10:27:38,720] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:27:38,725] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:27:38,857] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.139 seconds
+[2020-04-06 10:28:28,849] {scheduler_job.py:153} INFO - Started process (PID=26162) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:28:28,851] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:28:28,852] {logging_mixin.py:112} INFO - [2020-04-06 10:28:28,852] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:28:28,857] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:28:28,975] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.126 seconds
+[2020-04-06 10:29:19,020] {scheduler_job.py:153} INFO - Started process (PID=26297) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:29:19,022] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:29:19,023] {logging_mixin.py:112} INFO - [2020-04-06 10:29:19,023] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:29:19,029] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:29:19,169] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.148 seconds
+[2020-04-06 10:30:09,238] {scheduler_job.py:153} INFO - Started process (PID=26393) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:30:09,240] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:30:09,240] {logging_mixin.py:112} INFO - [2020-04-06 10:30:09,240] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:30:09,244] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:30:09,377] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.139 seconds
+[2020-04-06 10:30:59,293] {scheduler_job.py:153} INFO - Started process (PID=26515) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:30:59,298] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:30:59,298] {logging_mixin.py:112} INFO - [2020-04-06 10:30:59,298] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:30:59,303] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:30:59,425] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.132 seconds
+[2020-04-06 10:31:49,460] {scheduler_job.py:153} INFO - Started process (PID=26626) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:31:49,462] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:31:49,462] {logging_mixin.py:112} INFO - [2020-04-06 10:31:49,462] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:31:49,467] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:31:49,588] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.128 seconds
+[2020-04-06 10:32:39,400] {scheduler_job.py:153} INFO - Started process (PID=26772) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:32:39,402] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:32:39,402] {logging_mixin.py:112} INFO - [2020-04-06 10:32:39,402] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:32:39,407] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:32:39,529] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.129 seconds
+[2020-04-06 10:33:29,458] {scheduler_job.py:153} INFO - Started process (PID=26883) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:33:29,460] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:33:29,460] {logging_mixin.py:112} INFO - [2020-04-06 10:33:29,460] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:33:29,466] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:33:29,615] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.157 seconds
+[2020-04-06 10:34:19,634] {scheduler_job.py:153} INFO - Started process (PID=27017) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:34:19,638] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:34:19,638] {logging_mixin.py:112} INFO - [2020-04-06 10:34:19,638] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:34:19,643] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:34:19,764] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.131 seconds
+[2020-04-06 10:35:09,569] {scheduler_job.py:153} INFO - Started process (PID=27109) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:35:09,571] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:35:09,571] {logging_mixin.py:112} INFO - [2020-04-06 10:35:09,571] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:35:09,575] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:35:09,707] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.138 seconds
+[2020-04-06 10:35:59,621] {scheduler_job.py:153} INFO - Started process (PID=27216) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:35:59,622] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:35:59,623] {logging_mixin.py:112} INFO - [2020-04-06 10:35:59,623] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:35:59,628] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:35:59,758] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.137 seconds
+[2020-04-06 10:36:49,871] {scheduler_job.py:153} INFO - Started process (PID=27327) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:36:49,872] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:36:49,873] {logging_mixin.py:112} INFO - [2020-04-06 10:36:49,873] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:36:49,878] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:36:50,945] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 1.075 seconds
+[2020-04-06 10:37:40,191] {scheduler_job.py:153} INFO - Started process (PID=27463) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:37:40,193] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:37:40,193] {logging_mixin.py:112} INFO - [2020-04-06 10:37:40,193] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:37:40,198] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:37:40,322] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.131 seconds
+[2020-04-06 10:38:30,241] {scheduler_job.py:153} INFO - Started process (PID=27574) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:38:30,243] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:38:30,243] {logging_mixin.py:112} INFO - [2020-04-06 10:38:30,243] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:38:30,249] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:38:30,377] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.135 seconds
+[2020-04-06 10:39:20,299] {scheduler_job.py:153} INFO - Started process (PID=27685) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:39:20,300] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:39:20,301] {logging_mixin.py:112} INFO - [2020-04-06 10:39:20,301] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:39:20,306] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:39:20,580] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.282 seconds
+[2020-04-06 10:40:10,921] {scheduler_job.py:153} INFO - Started process (PID=27809) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:40:10,923] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:40:10,924] {logging_mixin.py:112} INFO - [2020-04-06 10:40:10,924] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:40:10,929] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:40:11,054] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.133 seconds
+[2020-04-06 10:41:00,980] {scheduler_job.py:153} INFO - Started process (PID=27888) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:41:00,982] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:41:00,982] {logging_mixin.py:112} INFO - [2020-04-06 10:41:00,982] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:41:00,987] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:41:01,106] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.126 seconds
+[2020-04-06 10:41:51,038] {scheduler_job.py:153} INFO - Started process (PID=28023) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:41:51,040] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:41:51,040] {logging_mixin.py:112} INFO - [2020-04-06 10:41:51,040] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:41:51,044] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:41:51,298] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.261 seconds
+[2020-04-06 10:42:41,391] {scheduler_job.py:153} INFO - Started process (PID=28135) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:42:41,392] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:42:41,393] {logging_mixin.py:112} INFO - [2020-04-06 10:42:41,393] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:42:41,398] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:42:41,518] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.127 seconds
+[2020-04-06 10:43:31,449] {scheduler_job.py:153} INFO - Started process (PID=28270) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:43:31,451] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:43:31,451] {logging_mixin.py:112} INFO - [2020-04-06 10:43:31,451] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:43:31,456] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:43:31,568] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.120 seconds
+[2020-04-06 10:44:21,501] {scheduler_job.py:153} INFO - Started process (PID=28381) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:44:21,503] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:44:21,503] {logging_mixin.py:112} INFO - [2020-04-06 10:44:21,503] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:44:21,508] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:44:21,986] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.485 seconds
+[2020-04-06 10:45:11,559] {scheduler_job.py:153} INFO - Started process (PID=28509) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:45:11,561] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:45:11,561] {logging_mixin.py:112} INFO - [2020-04-06 10:45:11,561] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:45:11,567] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:45:11,680] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.121 seconds
+[2020-04-06 10:46:01,618] {scheduler_job.py:153} INFO - Started process (PID=28606) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:46:01,619] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:46:01,620] {logging_mixin.py:112} INFO - [2020-04-06 10:46:01,620] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:46:01,625] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:46:01,745] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.127 seconds
+[2020-04-06 10:46:51,812] {scheduler_job.py:153} INFO - Started process (PID=28749) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:46:51,813] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:46:51,814] {logging_mixin.py:112} INFO - [2020-04-06 10:46:51,813] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:46:51,818] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:46:51,938] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.126 seconds
+[2020-04-06 10:47:41,728] {scheduler_job.py:153} INFO - Started process (PID=28862) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:47:41,730] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:47:41,730] {logging_mixin.py:112} INFO - [2020-04-06 10:47:41,730] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:47:41,735] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:47:41,858] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.130 seconds
+[2020-04-06 10:48:31,780] {scheduler_job.py:153} INFO - Started process (PID=28997) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:48:31,781] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:48:31,782] {logging_mixin.py:112} INFO - [2020-04-06 10:48:31,782] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:48:31,787] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:48:31,909] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.129 seconds
+[2020-04-06 10:49:21,839] {scheduler_job.py:153} INFO - Started process (PID=29107) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:49:21,841] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:49:21,842] {logging_mixin.py:112} INFO - [2020-04-06 10:49:21,842] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:49:21,846] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:49:22,070] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.231 seconds
+[2020-04-06 10:50:11,885] {scheduler_job.py:153} INFO - Started process (PID=29647) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:50:11,888] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:50:11,888] {logging_mixin.py:112} INFO - [2020-04-06 10:50:11,888] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:50:11,894] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:50:12,010] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.126 seconds
+[2020-04-06 10:51:01,948] {scheduler_job.py:153} INFO - Started process (PID=29718) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:51:01,950] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:51:01,950] {logging_mixin.py:112} INFO - [2020-04-06 10:51:01,950] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:51:01,955] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:51:02,082] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.134 seconds
+[2020-04-06 10:51:52,000] {scheduler_job.py:153} INFO - Started process (PID=29850) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:51:52,004] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:51:52,004] {logging_mixin.py:112} INFO - [2020-04-06 10:51:52,004] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:51:52,011] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:51:52,224] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.224 seconds
+[2020-04-06 10:52:42,352] {scheduler_job.py:153} INFO - Started process (PID=29966) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:52:42,354] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:52:42,354] {logging_mixin.py:112} INFO - [2020-04-06 10:52:42,354] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:52:42,359] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:52:42,488] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.136 seconds
+[2020-04-06 10:53:32,408] {scheduler_job.py:153} INFO - Started process (PID=30112) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:53:32,410] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:53:32,411] {logging_mixin.py:112} INFO - [2020-04-06 10:53:32,411] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:53:32,415] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:53:32,738] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.330 seconds
+[2020-04-06 10:54:22,579] {scheduler_job.py:153} INFO - Started process (PID=30222) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:54:22,581] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:54:22,582] {logging_mixin.py:112} INFO - [2020-04-06 10:54:22,582] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:54:22,587] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:54:22,710] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.130 seconds
+[2020-04-06 10:55:12,519] {scheduler_job.py:153} INFO - Started process (PID=30352) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:55:12,521] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:55:12,521] {logging_mixin.py:112} INFO - [2020-04-06 10:55:12,521] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:55:12,526] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:55:12,671] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.153 seconds
+[2020-04-06 10:56:02,571] {scheduler_job.py:153} INFO - Started process (PID=30452) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:56:02,573] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:56:02,574] {logging_mixin.py:112} INFO - [2020-04-06 10:56:02,574] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:56:02,578] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:56:02,705] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.134 seconds
+[2020-04-06 10:56:52,630] {scheduler_job.py:153} INFO - Started process (PID=30951) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:56:52,632] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:56:52,632] {logging_mixin.py:112} INFO - [2020-04-06 10:56:52,632] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:56:52,637] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:56:52,864] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.234 seconds
+[2020-04-06 10:57:42,688] {scheduler_job.py:153} INFO - Started process (PID=31075) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:57:42,690] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:57:42,690] {logging_mixin.py:112} INFO - [2020-04-06 10:57:42,690] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:57:42,695] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:57:42,817] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.129 seconds
+[2020-04-06 10:58:32,739] {scheduler_job.py:153} INFO - Started process (PID=31186) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:58:32,742] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:58:32,742] {logging_mixin.py:112} INFO - [2020-04-06 10:58:32,742] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:58:32,746] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:58:32,869] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.130 seconds
+[2020-04-06 10:59:22,910] {scheduler_job.py:153} INFO - Started process (PID=31320) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:59:22,912] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 10:59:22,913] {logging_mixin.py:112} INFO - [2020-04-06 10:59:22,913] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:59:22,918] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 10:59:23,051] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.140 seconds
+[2020-04-06 11:00:12,850] {scheduler_job.py:153} INFO - Started process (PID=31436) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:00:12,852] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:00:12,852] {logging_mixin.py:112} INFO - [2020-04-06 11:00:12,852] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:00:12,857] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:00:12,980] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.130 seconds
+[2020-04-06 11:01:02,908] {scheduler_job.py:153} INFO - Started process (PID=31562) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:01:02,910] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:01:02,910] {logging_mixin.py:112} INFO - [2020-04-06 11:01:02,910] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:01:02,916] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:01:03,035] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.127 seconds
+[2020-04-06 11:01:54,302] {scheduler_job.py:153} INFO - Started process (PID=31645) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:01:54,304] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:01:54,304] {logging_mixin.py:112} INFO - [2020-04-06 11:01:54,304] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:01:54,309] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:01:54,435] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.132 seconds
+[2020-04-06 11:02:43,299] {scheduler_job.py:153} INFO - Started process (PID=31781) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:02:43,301] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:02:43,301] {logging_mixin.py:112} INFO - [2020-04-06 11:02:43,301] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:02:43,306] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:02:43,799] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.500 seconds
+[2020-04-06 11:03:33,351] {scheduler_job.py:153} INFO - Started process (PID=31892) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:03:33,354] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:03:33,354] {logging_mixin.py:112} INFO - [2020-04-06 11:03:33,354] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:03:33,359] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:03:33,478] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.126 seconds
+[2020-04-06 11:04:23,409] {scheduler_job.py:153} INFO - Started process (PID=33098) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:04:23,410] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:04:23,411] {logging_mixin.py:112} INFO - [2020-04-06 11:04:23,411] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:04:23,416] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:04:23,649] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.240 seconds
+[2020-04-06 11:05:13,466] {scheduler_job.py:153} INFO - Started process (PID=33198) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:05:13,480] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:05:13,481] {logging_mixin.py:112} INFO - [2020-04-06 11:05:13,481] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:05:13,501] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:05:13,645] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.179 seconds
+[2020-04-06 11:06:03,704] {scheduler_job.py:153} INFO - Started process (PID=33335) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:06:03,708] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:06:03,709] {logging_mixin.py:112} INFO - [2020-04-06 11:06:03,708] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:06:03,715] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:06:04,076] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.373 seconds
+[2020-04-06 11:07:06,230] {scheduler_job.py:153} INFO - Started process (PID=33449) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:07:06,232] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:07:06,233] {logging_mixin.py:112} INFO - [2020-04-06 11:07:06,232] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:07:06,238] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:07:07,299] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 1.069 seconds
+[2020-04-06 11:07:56,281] {scheduler_job.py:153} INFO - Started process (PID=33556) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:07:56,283] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:07:56,284] {logging_mixin.py:112} INFO - [2020-04-06 11:07:56,284] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:07:56,288] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:07:56,399] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.118 seconds
+[2020-04-06 11:08:46,339] {scheduler_job.py:153} INFO - Started process (PID=33668) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:08:46,341] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:08:46,341] {logging_mixin.py:112} INFO - [2020-04-06 11:08:46,341] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:08:46,347] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:08:46,475] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.136 seconds
+[2020-04-06 11:09:36,530] {scheduler_job.py:153} INFO - Started process (PID=33792) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:09:36,532] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:09:36,533] {logging_mixin.py:112} INFO - [2020-04-06 11:09:36,533] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:09:36,538] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:09:36,678] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.148 seconds
+[2020-04-06 11:10:26,450] {scheduler_job.py:153} INFO - Started process (PID=33918) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:10:26,453] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:10:26,453] {logging_mixin.py:112} INFO - [2020-04-06 11:10:26,453] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:10:26,457] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:10:26,588] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.138 seconds
+[2020-04-06 11:11:16,509] {scheduler_job.py:153} INFO - Started process (PID=34029) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:11:16,511] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:11:16,511] {logging_mixin.py:112} INFO - [2020-04-06 11:11:16,511] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:11:16,516] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:11:16,628] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.119 seconds
+[2020-04-06 11:12:06,684] {scheduler_job.py:153} INFO - Started process (PID=34145) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:12:06,688] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:12:06,688] {logging_mixin.py:112} INFO - [2020-04-06 11:12:06,688] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:12:06,693] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:12:06,834] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.151 seconds
+[2020-04-06 11:12:56,619] {scheduler_job.py:153} INFO - Started process (PID=34229) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:12:56,621] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:12:56,622] {logging_mixin.py:112} INFO - [2020-04-06 11:12:56,622] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:12:56,626] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:12:56,750] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.131 seconds
+[2020-04-06 11:13:46,671] {scheduler_job.py:153} INFO - Started process (PID=34365) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:13:46,673] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:13:46,673] {logging_mixin.py:112} INFO - [2020-04-06 11:13:46,673] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:13:46,678] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:13:46,816] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.145 seconds
+[2020-04-06 11:14:36,870] {scheduler_job.py:153} INFO - Started process (PID=34477) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:14:36,872] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:14:36,873] {logging_mixin.py:112} INFO - [2020-04-06 11:14:36,872] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:14:36,877] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:14:37,008] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.138 seconds
+[2020-04-06 11:15:26,802] {scheduler_job.py:153} INFO - Started process (PID=34624) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:15:26,804] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:15:26,804] {logging_mixin.py:112} INFO - [2020-04-06 11:15:26,804] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:15:26,809] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:15:26,929] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.127 seconds
+[2020-04-06 11:16:17,312] {scheduler_job.py:153} INFO - Started process (PID=34759) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:16:17,314] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:16:17,314] {logging_mixin.py:112} INFO - [2020-04-06 11:16:17,314] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:16:17,320] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:16:17,442] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.130 seconds
+[2020-04-06 11:17:07,369] {scheduler_job.py:153} INFO - Started process (PID=34875) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:17:07,373] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:17:07,373] {logging_mixin.py:112} INFO - [2020-04-06 11:17:07,373] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:17:07,377] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:17:07,608] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.238 seconds
+[2020-04-06 11:17:57,421] {scheduler_job.py:153} INFO - Started process (PID=34959) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:17:57,423] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:17:57,423] {logging_mixin.py:112} INFO - [2020-04-06 11:17:57,423] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:17:57,428] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:17:57,569] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.148 seconds
+[2020-04-06 11:18:47,479] {scheduler_job.py:153} INFO - Started process (PID=35094) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:18:47,481] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:18:47,481] {logging_mixin.py:112} INFO - [2020-04-06 11:18:47,481] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:18:47,486] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:18:47,688] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.209 seconds
+[2020-04-06 11:19:37,531] {scheduler_job.py:153} INFO - Started process (PID=35206) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:19:37,534] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:19:37,534] {logging_mixin.py:112} INFO - [2020-04-06 11:19:37,534] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:19:37,539] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:19:37,780] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.249 seconds
+[2020-04-06 11:20:27,590] {scheduler_job.py:153} INFO - Started process (PID=35344) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:20:27,591] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:20:27,592] {logging_mixin.py:112} INFO - [2020-04-06 11:20:27,592] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:20:27,597] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:20:27,725] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.135 seconds
+[2020-04-06 11:21:17,641] {scheduler_job.py:153} INFO - Started process (PID=35456) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:21:17,643] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:21:17,643] {logging_mixin.py:112} INFO - [2020-04-06 11:21:17,643] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:21:17,648] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:21:17,765] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.124 seconds
+[2020-04-06 11:22:07,704] {scheduler_job.py:153} INFO - Started process (PID=36648) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:22:07,707] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:22:07,708] {logging_mixin.py:112} INFO - [2020-04-06 11:22:07,708] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:22:07,718] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:22:07,938] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.234 seconds
+[2020-04-06 11:22:57,740] {scheduler_job.py:153} INFO - Started process (PID=36737) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:22:57,742] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:22:57,743] {logging_mixin.py:112} INFO - [2020-04-06 11:22:57,743] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:22:57,748] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:22:57,878] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.138 seconds
+[2020-04-06 11:23:51,809] {scheduler_job.py:153} INFO - Started process (PID=36908) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:23:51,811] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:23:51,812] {logging_mixin.py:112} INFO - [2020-04-06 11:23:51,812] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:23:51,816] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:23:51,940] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.130 seconds
+[2020-04-06 11:24:41,979] {scheduler_job.py:153} INFO - Started process (PID=38096) to work on /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:24:41,981] {scheduler_job.py:1560} INFO - Processing file /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py for tasks to queue
+[2020-04-06 11:24:41,982] {logging_mixin.py:112} INFO - [2020-04-06 11:24:41,982] {dagbag.py:403} INFO - Filling up the DagBag from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:24:41,987] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py
+[2020-04-06 11:24:42,124] {scheduler_job.py:161} INFO - Processing /data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/hello_world.py took 0.144 seconds

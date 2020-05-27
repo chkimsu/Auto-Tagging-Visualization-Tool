@@ -1,0 +1,231 @@
+,tag,content
+0,absorption,Indicates a chiller which uses absorption driven by hot water (as opposed to vapor compression).
+1,ac,Indicates an alternating current (AC) electrical quantity or device.
+2,active,"Applied to an electrical power point to indicate active power or real power, typically measured in ""kW""."
+3,ahu,Air Handler Unit which heats and/or cools air.
+4,ahuRef,Associate an entity such as a vav with an ahu.
+5,air,Point associated with the measurement or control of air.
+6,airCooled,Indicates chiller which uses air to cool the hot refrigerant.
+7,angle,Indicates an angle measurement.
+8,apparent,"Applied to an electrical power point to indicate apparent power, typically measured in ""kVA""."
+9,area,Floor area of a site measured in ft² or m².
+10,avg,Indicates an average quantity.
+11,barometric,Defines the mean atmospheric pressure at sea level measured in millibar or inHg.
+12,blowdown,Paired with water to indicate control or measurement of the blowdown water expelled from a coolingTower or boiler to remove mineral build up.
+13,boiler,Boiler equip used to generate hot water or steam for heating.
+14,bypass,If used with valve indicates a by-pass in a piping system.
+15,centrifugal,Indicates chiller compressor which uses a continuous flow of fluid through an impeller.
+16,chilled,Marker tag used with water for the chilled water system between the plant and ahu.
+17,chilledBeamZone,Marker for an ahu which delivers air to zones via chilled beam terminal units.
+18,chilledWaterCool,Indicates that a unit has cooling capability using chilled water.
+19,chilledWaterPlant,Models the entire plant and its system of equipment used to generate chilled water.
+20,chilledWaterPlantRef,Associate a record such as an ahu with its chilledWaterPlant.
+21,chiller,Chillers remove heat from a liquid via a vapor compression or an absorption refrigeration cycle.
+22,circ,Indicates a pump designed to circulate a fluid through an equipment such as a boiler.
+23,circuit,An equip which models an electric circuit housed in an elecPanel.
+24,closedLoop,Indicates coolingTower which keeps the working fluid separate from the fluid used for heat transfer into the atmosphere.
+25,cloudage,The fraction of the sky obscured by clouds.
+26,cmd,"Classifies a point as an output, AO/BO, command, or actuator."
+27,co,"Carbon monoxide level point measured in ""ppm""."
+28,co2,"Carbon dioxide level point measured in ""ppm""."
+29,coldDeck,Associated with the cold air ductwork in a dualDuct or tripleDuct AHU.
+30,condensate,Paired with water to indicate control or measurement of the condensate water in a coolingTower or boiler.
+31,condenser,"When combined with the water tag, this indicates points in a condenser water system between a chiller and coolingTower."
+32,connection,Marker tag for a logical network connection between two devices using a specific communications protocol.
+33,constantVolume,Marks an ahu as delivering a constant volume of air flow.
+34,cool,Cooling coil as bool or numeric point used with ahu equip.
+35,coolOnly,Indicates a cooling only VAV without a fan.
+36,cooling,Associated with the cooling mode of an HVAC system.
+37,coolingCapacity,"Measurement of a chiller ability to remove heat measured in ""tonref"", ""BTU/h"", or ""kW""."
+38,coolingTower,Cooling towers are used to transfer process waste heat to the atmosphere.
+39,cur,"Marker tag which indicates the point has capability for subscription to its real-time, current value."
+40,curErr,Error message associated when curStatus indicates an error condition.
+41,curStatus,Current status of a point curVal as one of the predefined strings
+42,curVal,Current value of a point or other value record
+43,current,Models a point associated with electrical current; should be paired with one of the following tags
+44,damper,Marker tag on point which indicates a damper used to regulate or control the flow or pressure of air.
+45,dc,Indicates a direct current (DC) electrical quantity or device.
+46,delta,"Indicates a differential of air, water, or steam between the entering and leaving sensors."
+47,device,Models a physical device on a communication network.
+48,device1Ref,Models the first end point device of a connection
+49,device2Ref,Models the second end point device of a connection
+50,dew,Defines the dew point temperature of a weather station.
+51,directZone,Marker for an ahu which delivers air directly to a zone.
+52,direction,Cardinal or compass direction measured in degrees
+53,dis,Short display name for an entity.
+54,discharge,Associated with the discharge air an ahu or vav.
+55,diverting,Indicates a three way valve which inputs one pipe and diverts between two output pipes.
+56,domestic,"Paired with water to indicate control or measurement of tap water used for drinking, washing, cooking, and flushing of toliets."
+57,dualDuct,"Indicates an ahu which discharges into two ducts which are some combinatin of hotDeck, coldDeck, or neutralDeck."
+58,ductArea,Config point on a vav for duct area measured in ft² or m².
+59,dxCool,Indicates that a unit has cooling capability using direct expansion mechanical cooling.
+60,effective,Used to indicate the effective setpoint which takes into account various other mode based setpoints the equip might define.
+61,efficiency,"Efficiency point of a chiller measured in ""COP"" or ""kW/ton""."
+62,elec,Used on point or equip entities relating to electricity.
+63,elecHeat,Indicates that a unit has heating capability using electric heat.
+64,elecMeterLoad,Equip or point which consumes energy as electrial load.
+65,elecMeterRef,Associates a piece of equipment with an elec meter.
+66,elecPanel,An equip which models the physical housing for electric circuits.
+67,elecPanelOf,Associates a circuit with its elecPanel.
+68,elecReheat,Indicates a VAV with electric reheat.
+69,enable,Secondary on/off point of an equip especially used with a vfd.
+70,energy,Applied to point entities which measure energy consumption.
+71,entering,Indicates water or steam entering a piece of equipment like a boiler or chiller.
+72,enum,Comma separated list of text names to use for Bool or Str point.
+73,equip,Equipment asset.
+74,equipRef,Association with an equip entity.
+75,evaporator,Indicates points on the evaporator mechanism used to convert a refrigerant from its liquid to gageous state.
+76,exhaust,Associated with the exhaust air an ahu.
+77,export,Models the power or energy exported to the electric grid.
+78,faceBypass,A point of an ahu indicating air flow is by-passing the heating/cooling elements.
+79,fan,"Fan point or equip associated with an ahu, vav, or coolingTower."
+80,fanPowered,Indicates a VAV with a fan.
+81,fcu,Fan coil units are unitary heating/cooling assets which use the zone itself for supply air.
+82,filter,Differential pressure across the filter of an ahu.
+83,flow,"Marker tag on a point which measures rate of volume currently flowing through a flow meter, duct, or pipe ."
+84,flue,Indicates points placed in the flue-gas stack of a boiler system.
+85,freezeStat,A boolean point of an ahu indicating a freezing condition which might require a control sequence to protect the equipment.
+86,freq,"Electrical A/C frequency point measured in ""Hz"" for elec meter or a vfd."
+87,gas,Used on point or equip entities relating to natural gas.
+88,gasHeat,Indicates that a unit has heating capability using gas heat.
+89,gasMeterLoad,Equip or point which consumes fuel gas as load.
+90,geoAddr,Geographic street address.
+91,geoCity,Geographic city or locality name.
+92,geoCoord,"Geographic coordinate as ""C(latitude,longitude)"""
+93,geoCountry,Geographic country as ISO 3166-1 two letter code.
+94,geoCounty,Geographic subdivision of US state.
+95,geoPostalCode,Geographic postal code; for US this is a five digit zip code.
+96,geoState,State or province name; for US this is two letter state code.
+97,geoStreet,Geographic street number and name.
+98,header,Header pipe used as central connection or manifold for other piping runs.
+99,heat,Heating coil as bool or float point on an ahu or vav.
+100,heatExchanger,Heat exchangers are used to transfer heat from one medium to another.
+101,heatPump,Heat pumps are unitary assets which use a refrigeration cycle for both heating and cooling.
+102,heatWheel,Bool point which models the on or off state of an ahu heat wheel.
+103,heating,Associated with the heating mode of an HVAC system.
+104,his,Indicates that a point is historized with a history log of timestamp/value pairs.
+105,hisErr,Error message associated when hisStatus indicates an error condition.
+106,hisInterpolate,Indicates how interpolation of a historized point should be handled.
+107,hisStatus,Current status of a point history sync as one of the predefined strings
+108,hisTotalized,Indicates values which are a continuous stream of totalization and should be read by computing the delta.
+109,hot,Paired with water to indicate control or measurement of hot water.
+110,hotDeck,Associated with the hot air ductwork in a dualDuct or tripleDuct AHU.
+111,hotWaterHeat,Indicates that a unit has heating capability using hot water.
+112,hotWaterPlant,Plant level tag for system which outputs hot water
+113,hotWaterPlantRef,Associate an entity such as an ahu with its hotWaterPlant.
+114,hotWaterReheat,Indicates a VAV with hot water reheat.
+115,humidifier,Boolean or numeric point of an ahu used to indicate if if the humidifier is on or off.
+116,humidity,Humidity measured in %RH (percent relative humidity).
+117,hvac,"Associated with HVAC (Heating, Ventilating, Air Conditioning)"
+118,id,Unique identifier for an entity.
+119,imbalance,"In electrical power systems, models an ac volt or current phase imbalance measured in ""%""."
+120,import,Models the power or energy imported from the electric grid.
+121,irradiance,Combined with solar to measure the amount of energy arriving at the earth's surface measured in W/m².
+122,isolation,Indicates a valve or damper used to isolate a piece of equipment from a piping system or ductwork respectively.
+123,kind,Defines a tag value type using a predefined string constant.
+124,leaving,Indicates water or steam exiting a piece of equipment like a boiler or chiller.
+125,level,Indicates the fill level of a tank as a percentage where 0% is empty and 100% is filled.
+126,lightLevel,"Light level sensor point under lightsGroup measured in ""lux"" or ""lumen""."
+127,lighting,Indicates association with the lighting system.
+128,lights,Lighting on/off status as a boolean or if dimmable a numeric between 0% and 100%.
+129,lightsGroup,Equip level of the lighting system which is a group of one or more lights points.
+130,load,"Models a point on a chiller used to command or measure the chiller's load as a percentage from ""0%"" to ""100%""."
+131,mag,Models the magnitude of a volt or current point.
+132,makeup,"Paired with water to indicate control or measurement of the makeup water in a coolingTower or boiler used to replace water lost through leaks, evaporation, or blowdown."
+133,mau,"Used with ahu to mark an AHU as a makeup air handling unit which conditions 100% outside air, and no recirculated air."
+134,max,Associated with a maximum value.
+135,maxVal,Applied to point to define the maximum value to read from a sensor or to write from a command/setpoint.
+136,meter,"Equip which meters usage of elec energy, thermal energy, gas, water or steam."
+137,min,Associated with a minumum value.
+138,minVal,Applied to point to define the minumum value to read from a sensor or to write from a command/setpoint.
+139,mixed,Associated with the mixed air of an ahu.
+140,mixing,Indicates a three way valve which inputs two pipes and outputs a mixture between the two to a single output pipe.
+141,multiZone,Marker for an ahu which delivers air to its zones via a ductwork manifold which splits the air into a duct per zone.
+142,net,Models the net power or energy exchange with the electric grid following the load convention: import minus export.
+143,network,Network models a communication network between multiple devices.
+144,networkRef,Models the network of a connection
+145,neutralDeck,Associated with the neutral air ductwork in a dualDuct or tripleDuct AHU.
+146,occ,Marker tag used to indicate a setpoint is associated with occupied mode.
+147,occupancyIndicator,Occupancy sensor under lightsGroup.
+148,occupied,Marker tag used with a boolean point to indicate whether a site or zone is occupied (true) or unoccupied (false).
+149,oil,Used on point or equip entities relating to fuel oil.
+150,openLoop,Indicates coolingTower which uses the working fluid itself for evaporation into the atmosphere.
+151,outside,"Associated with outside air, often used to model ahu points."
+152,parallel,Indicates the VAV fan pulls air from outside the primary airflow.
+153,perimeterHeat,Auxiliary heating points associated with a vav.
+154,pf,Power factor of an elec meter as a unitless number between 0.0 and 1.0 which represents the ratio of active power to apparent power.
+155,phase,Association of one or more phases in a three-phase electrical system.
+156,point,Data point such as a sensor or actuator.
+157,power,Applied to point entities which measure energy consumed per unit time.
+158,precipitation,"Amount of atmospheric water vapor fallen which includes rain, drizzle, sleet, snow, and hail measured in mm or inches."
+159,pressure,"Static pressure associated with the measurement or control of fluids such as air, oxygen, water, steam, gas, oil, etc."
+160,pressureDependent,VAV damper modulates to control space temp.
+161,pressureIndependent,"VAV damper or a control valve that modulates to maintain desired flow setpoint, independent of the duct or piping pressure."
+162,primaryFunction,Enumerated string applied to a site record to indicate the building's primary function.
+163,primaryLoop,Indicates equipment and points which are associated with a chiller or boiler plant's primary loop - the pipework within the central plant.
+164,protocol,String enumeration for a connection communication protocol.
+165,pump,Marker tag for an equip or point which models a pump.
+166,reactive,"Applied to an electrical power point to indicate reactive power or imaginary power, typically measured in ""kVAR""."
+167,reciprocal,Indicates chiller compressor which uses pistons driven by a crankshaft.
+168,refrig,Indicates points associated with the measurment or control of the refrigerant substance in a cooling system like a chiller.
+169,reheat,Reheat point of a vav.
+170,reheating,Associated with the reheating mode of a VAV.
+171,return,Associated with the return air an ahu.
+172,rooftop,Used with ahu to mark an AHU as a packaged rooftop unit (RTU).
+173,run,Primary on/off point of an equip especially used with a vfd.
+174,screw,Indicates chiller compressor which uses a rotary mechanism.
+175,secondaryLoop,Indicates equipment and points which are associated with a chiller or boiler plant's secondary loop - the pipework from the central plant to the building.
+176,sensor,"Classifies a point as an input, AI/BI, or sensor."
+177,series,Indicates the VAV pulls air from the primary airflow.
+178,singleDuct,Indicates an ahu which uses a single duct for all air flow.
+179,site,Building or other type of facility with unique street address.
+180,siteMeter,Applied to a meter which exclusively meters a single site identified by siteRef.
+181,sitePanel,Marker tag for a elecPanel to indicate its the main site-level panel.
+182,siteRef,Association with a site entity.
+183,solar,Point associated with the measurement of the sunlight.
+184,sp,"Classifies a point as a setpoint, soft point, or process control variable."
+185,speed,"When used as a vfd point it is speed measured in ""%"" where 0% is off and 100% is the fastest speed."
+186,stage,Indicates the stage of an AHU cooling or heating element.
+187,standby,Marker tag used to indicate a setpoint is associated with standby mode.
+188,steam,Point associated with the measurement or control of steam.
+189,steamHeat,Indicates that a unit has heating capability using steam.
+190,steamMeterLoad,Equip or point which consumes steam as load.
+191,steamPlant,Plant level tag for system which outputs steam
+192,steamPlantRef,Associate an entity such as an ahu with its steamPlant.
+193,subPanelOf,Ref tag to indicate that an elecPanel is positioned underneath another panel in the electric distribution system.
+194,submeterOf,This tag is applied to submeters and references the parent meter.
+195,sunrise,Boolean point associated with a weather station for historizing sunrise and sunset times.
+196,tank,Marker tag for an equip which models a storage tank vessel.
+197,temp,Temperature measured in °C or °F.
+198,thd,"In electrical power systems, models the total harmonic distortion of a volt or current point measured in ""%""."
+199,total,Indicates a total quantity.
+200,tripleDuct,"Indicates an ahu which discharges into three ducts which are the hotDeck, coldDeck, and neutralDeck."
+201,tz,Timezone identifier string which is a city name from the zoneinfo database.
+202,unit,Unit of measurement identifier from unit database.
+203,unocc,Marker tag used to indicate a setpoint is associated with unoccupied mode.
+204,uv,Unit ventilators are unitary heating/cooling assets which have direct access to outside fresh air.
+205,valve,Marker tag on point which indicates a valve used to regulate or control the flow or pressure of a fluid.
+206,variableVolume,Marks an ahu as delivering a variable volume of air flow.
+207,vav,Variable Volume Volume supply duct equip.
+208,vavMode,Enumerated Str point which specifies a VAV's operating mode as one the following standardized string values
+209,vavZone,Marker for an ahu which delivers air to zones via vav terminal units.
+210,vfd,Marker for a motor equip with variable frequency drive.
+211,visibility,Distance at which light can be clearly discerned measured in km or miles.
+212,volt,Models a point associated with electrical voltage; should be paired with one of the following tags
+213,volume,"Marker tag on a point which measures total volume which has flowed through a meter, duct, or pipe."
+214,water,Point associated with the measurement or control of water.
+215,waterCooled,Indicates chiller which uses water to cool the hot refrigerant.
+216,waterMeterLoad,Equip or point which consumes water as load.
+217,weather,Marker tag for a weather station entity.
+218,weatherCond,Used with a Str enum point to enumerate conditions with one of the following string values
+219,weatherPoint,Point sensor value associated with a weather station.
+220,weatherRef,Associates an entity with a weather station.
+221,wetBulb,Associates a point with the wet-bulb temperature.
+222,wind,Point associated with the measurement of the wind.
+223,writable,Annotates a point as a writable output with 16-level priority array.
+224,writeErr,Error message associated when writeStatus indicates an error condition.
+225,writeLevel,Current priority level for writeVal as number between 1 and 17.
+226,writeStatus,Current status of a writable point output
+227,writeVal,Current desired value to write to output.
+228,yearBuilt,Tag on site which is four digit year that a building was first built.
+229,zone,Associated with a conditioned zone of a building.

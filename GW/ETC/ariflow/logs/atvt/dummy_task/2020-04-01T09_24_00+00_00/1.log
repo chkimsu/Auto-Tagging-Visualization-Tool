@@ -1,0 +1,12 @@
+[2020-04-01 18:26:42,202] {taskinstance.py:655} INFO - Dependencies all met for <TaskInstance: atvt.dummy_task 2020-04-01T09:24:00+00:00 [queued]>
+[2020-04-01 18:26:42,209] {taskinstance.py:655} INFO - Dependencies all met for <TaskInstance: atvt.dummy_task 2020-04-01T09:24:00+00:00 [queued]>
+[2020-04-01 18:26:42,209] {taskinstance.py:866} INFO - 
+--------------------------------------------------------------------------------
+[2020-04-01 18:26:42,209] {taskinstance.py:867} INFO - Starting attempt 1 of 2
+[2020-04-01 18:26:42,209] {taskinstance.py:868} INFO - 
+--------------------------------------------------------------------------------
+[2020-04-01 18:26:42,448] {taskinstance.py:887} INFO - Executing <Task(DummyOperator): dummy_task> on 2020-04-01T09:24:00+00:00
+[2020-04-01 18:26:42,457] {standard_task_runner.py:53} INFO - Started process 112481 to run task
+[2020-04-01 18:26:43,456] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: atvt.dummy_task 2020-04-01T09:24:00+00:00 [running]> bi02.com
+[2020-04-01 18:26:43,466] {taskinstance.py:1048} INFO - Marking task as SUCCESS.dag_id=atvt, task_id=dummy_task, execution_date=20200401T092400, start_date=20200401T092642, end_date=20200401T092643
+[2020-04-01 18:26:52,090] {logging_mixin.py:112} INFO - [2020-04-01 18:26:52,090] {local_task_job.py:103} INFO - Task exited with return code 0

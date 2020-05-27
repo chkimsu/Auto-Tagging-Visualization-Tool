@@ -1,0 +1,18 @@
+*~
+\#*
+
+*\#
+
+# Python temp
+*.pyc
+
+# Local information
+.tox
+nlpre.egg*
+.idea
+.coverage
+coverage.xml
+cover/
+dist/
+*.bak
+.python-version

@@ -1,0 +1,122 @@
+﻿,rawdata,label
+0,15th floor mechanical room,return air flow sensor
+1,Zone2 Temperature,zone air temperature sensor
+2,Zone 1 Temperature,outside air temperature sensor
+3,Zone2 Temperature,zone air temperature sensor
+4,Zone 1 Temperature,outside air temperature sensor
+5,Zone2 Temperature,zone air temperature sensor
+6,Zone 1 Temperature,outside air temperature sensor
+7,Zone2 Temperature,zone air temperature sensor
+8,Zone 1 Temperature,outside air temperature sensor
+9,Compartment Unit Temp,return air damper cmd
+10,Zone 1 Temperature,outside air temperature sensor
+11,Zone2 Temperature,zone air temperature sensor
+12,Zone 1 Temperature,outside air temperature sensor
+13,Zone2 Temperature,zone air temperature sensor
+14,Zone 1 Temperature,outside air temperature sensor
+15,Zone2 Temperature,zone air temperature sensor
+16,Zone 1 Temperature,outside air temperature sensor
+17,Zone2 Temperature,zone air temperature sensor
+18,Zone 1 Temperature,outside air temperature sensor
+19,Zone2 Temperature,zone air temperature sensor
+20,Zone 1 Temperature,outside air temperature sensor
+21,Zone2 Temperature,zone air temperature sensor
+22,Zone 1 Temperature,outside air temperature sensor
+23,Floor Static Pressure 1,return air pressure sensor
+24,Floor Static Pressure 2,return air pressure sensor
+25,Return Air CO2 Sensor A,return air co2 sensor
+26,Return Air CO2 Sensor B,return air co2 sensor
+27,Return Air CO2 Sensor C,return air co2 sensor
+28,Return Air CO2 Sensor D,return air co2 sensor
+29,Return Air CO2,return air co2 sensor
+30,Supply Air Temperature,return air temperature sensor
+31,South West Corner,outside air humidity sensor
+32,North East Corner,return air co2 sensor
+33,West Electrical Room,exhaust air fan cmd
+34,Compartment Unit Temp,return air damper cmd
+35,Outdoor Air Flow,outside air flow sp
+36,Zone2 Temperature,zone air temperature sensor
+37,Zone 1 Temperature,outside air temperature sensor
+38,Zone2 Temperature,zone air temperature sensor
+39,Zone 1 Temperature,outside air temperature sensor
+40,Zone2 Temperature,zone air temperature sensor
+41,Zone 1 Temperature,outside air temperature sensor
+42,Zone2 Temperature,zone air temperature sensor
+43,Zone 1 Temperature,outside air temperature sensor
+44,Zone2 Temperature,zone air temperature sensor
+45,Zone 1 Temperature,outside air temperature sensor
+46,Zone2 Temperature,zone air temperature sensor
+47,Zone 1 Temperature,outside air temperature sensor
+48,Zone2 Temperature,zone air temperature sensor
+49,Zone 1 Temperature,outside air temperature sensor
+50,Zone2 Temperature,zone air temperature sensor
+51,Zone 1 Temperature,outside air temperature sensor
+52,Zone2 Temperature,zone air temperature sensor
+53,Zone 1 Temperature,outside air temperature sensor
+54,Zone2 Temperature,zone air temperature sensor
+55,Zone 1 Temperature,outside air temperature sensor
+56,Zone2 Temperature,zone air temperature sensor
+57,Zone 1 Temperature,outside air temperature sensor
+58,Floor Static Pressure 1,return air pressure sensor
+59,Floor Static Pressure 2,return air pressure sensor
+60,Return Air CO2 Sensor A,return air co2 sensor
+61,Return Air CO2 Sensor B,return air co2 sensor
+62,Return Air CO2 Sensor C,return air co2 sensor
+63,Return Air CO2 Sensor D,return air co2 sensor
+64,Return Air CO2,return air co2 sensor
+65,Supply Air Temperature,return air temperature sensor
+66,South West Corner,outside air humidity sensor
+67,North East Corner,return air co2 sensor
+68,West Electrical Room,exhaust air fan cmd
+69,Compartment Unit Temp,return air damper cmd
+70,Outdoor Air Flow,outside air flow sp
+71,Zone2 Temperature,zone air temperature sensor
+72,Zone 1 Temperature,outside air temperature sensor
+73,Zone 1 Temperature,outside air temperature sensor
+74,Zone2 Temperature,zone air temperature sensor
+75,Zone 1 Temperature,outside air temperature sensor
+76,Zone2 Temperature,zone air temperature sensor
+77,Zone 1 Temperature,outside air temperature sensor
+78,Zone2 Temperature,zone air temperature sensor
+79,Zone 1 Temperature,outside air temperature sensor
+80,Zone2 Temperature,zone air temperature sensor
+81,Zone 1 Temperature,outside air temperature sensor
+82,Zone2 Temperature,zone air temperature sensor
+83,Zone 1 Temperature,outside air temperature sensor
+84,Floor Static Pressure 1,return air pressure sensor
+85,Floor Static Pressure 2,return air pressure sensor
+86,Return Air CO2 Sensor A,return air co2 sensor
+87,Return Air CO2 Sensor B,return air co2 sensor
+88,Return Air CO2 Sensor C,return air co2 sensor
+89,Return Air CO2 Sensor D,return air co2 sensor
+90,Return Air CO2,return air co2 sensor
+91,*** OFF SET OF 1 DEG ** Sensor replaced,return air co2 sensor
+92,South West Corner,outside air humidity sensor
+93,North East Corner,return air co2 sensor
+94,West Electrical Room,exhaust air fan cmd
+95,Compartment Unit Temp,return air damper cmd
+96,Outdoor Air Flow,outside air flow sp
+97,Zone2 Temperature,zone air temperature sensor
+98,Zone 1 Temperature,outside air temperature sensor
+99,Zone2 Temperature,zone air temperature sensor
+100,Zone 1 Temperature,outside air temperature sensor
+101,Zone2 Temperature,zone air temperature sensor
+102,Zone 1 Temperature,outside air temperature sensor
+103,Zone2 Temperature,zone air temperature sensor
+104,Zone 1 Temperature,outside air temperature sensor
+105,Zone2 Temperature,zone air temperature sensor
+106,Zone 1 Temperature,outside air temperature sensor
+107,Zone2 Temperature,zone air temperature sensor
+108,Zone 1 Temperature,outside air temperature sensor
+109,Zone2 Temperature,zone air temperature sensor
+110,Zone 1 Temperature,outside air temperature sensor
+111,Zone2 Temperature,zone air temperature sensor
+112,Zone 1 Temperature,outside air temperature sensor
+113,Zone2 Temperature,zone air temperature sensor
+114,Zone 1 Temperature,outside air temperature sensor
+115,Zone2 Temperature,zone air temperature sensor
+116,Zone 1 Temperature,outside air temperature sensor
+117,Zone2 Temperature,zone air temperature sensor
+118,Zone 1 Temperature,outside air temperature sensor
+119,Zone2 Temperature,zone air temperature sensor
+120,Zone 1 Temperature,outside air temperature sensor

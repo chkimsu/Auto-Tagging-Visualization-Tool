@@ -1,0 +1,38 @@
+Variable,PATH
+predictor_path,/data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/csbpredictor
+host,192.168.21.6
+port,3306
+user,root
+password,ntels
+db,nise
+charset,utf8
+sql_0,SELECT * FROM t_points_atvt WHERE tagged ='n' AND changed = 'n' AND inferenced = 'n';
+sql_1,SELECT * FROM t_points_atvt WHERE tagged ='n' AND changed = 'y' AND inferenced = 'n';
+sql_2,SELECT * FROM t_points_atvt WHERE tagged ='y' AND changed = 'y' AND inferenced = 's';
+PATH1,/data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/
+column1,id
+column2,description
+column3,name
+column4,tagged
+column5,changed
+column6,inferenced
+column7,model_version
+column8,point
+column9,equip
+column10,inference_time
+infer_text,/data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/inferencing.txt
+dictionary,/data01/CSB/CSB_Jupyter/ATVT/CSB-NLpre/Dictionary/MeSH_two_word_lexicon3.csv
+prefix,MeSH_
+inferresult_text,/data01/CSB/CSB_Jupyter/ATVT/ariflow/dags/inferencing_result.txt
+version,v1
+equipments,"'vfds', 'elec', 'zones', 'ahus', 'vavs', 'chillers', 'boilers', 'tanks'"
+content_type,application/json; charset=utf-8
+url,http://192.168.21.6:5001/points/inferences/result
+dags_name,atvt_inferencing
+description,atvt_gateway_inference DAG
+schedule,*/2 * * * *
+now_year,2020
+now_month,4
+now_date,13
+dummytask_id,dummy_task
+pythontask_id,at_gateway_inference_task
