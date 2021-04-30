@@ -1,6 +1,10 @@
 # 프로젝트 제목
 ATVT(Auto_Tagging& Visualization_Tool)
 
+## 논문 등재
+'IoT Device Auto-Tagging using Transformers'
+https://ieeexplore.ieee.org/document/9315384
+
 ## 프로젝트 설명(Description)
 ATVT(Auto_Tagging& Visualization_Tool) 프로젝트를 간단히 설명하면, 자동으로 건물의 여러 장비들을 Tagging과 Visualization을 처리하는 프로젝트다.
 <br>단계별로 보면, DDC(Direct Digital Control)에서 생성되는 정보가 BacNet이라는 프로토콜로 들어온 패킷 데이터(장비의 대략적 정보를 가지고 있음)를 바탕으로 어떤 장비인지(Project Haystack 분류 체계 사용) 유추하는 작업을 사람이 처리하는게 아니라 머신 러닝으로 자동으로 처리함으로써 시간과 자원의 효율성을 높이자는 프로젝트다.
