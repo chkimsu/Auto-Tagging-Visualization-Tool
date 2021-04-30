@@ -2,7 +2,7 @@
 ATVT(Auto_Tagging& Visualization_Tool)
 
 ## 논문 등재
-'IoT Device Auto-Tagging using Transformers'
+'IoT Device Auto-Tagging using Transformers'<br>
 https://ieeexplore.ieee.org/document/9315384
 
 ## 프로젝트 설명(Description)
