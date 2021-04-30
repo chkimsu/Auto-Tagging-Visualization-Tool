@@ -10,9 +10,6 @@ ATVT(Auto_Tagging& Visualization_Tool) 프로젝트를 간단히 설명하면, �
 Equip을 더 세분화 시킨 Point level이 있다.
 ATVT 프로젝트에서는 Point level을 분류하는 것으로 목적으로 하고, 체계를 그대로 사용하지 않고 Equip과 point를 '_' 을 이어 EquipName_PointName을 사용한다.
 
-## 설치 방법 (Installation)
-* git clone https://gitlab.com/ntels-atvt/auto-tagging.git
-
 ## 폴더 구성 (Structure)
 ![폴더구성 이미지](./OTHERS/ETC/img.png)
 
@@ -48,9 +45,6 @@ ATVT 프로젝트에서는 Point level을 분류하는 것으로 목적으로 �
 
 ## Contributers
  * NTELS-AI team
- 
-## Referral 
- * https://ntels.sharepoint.com/sites/2019AutoTaggingVisualizationToolRD
  
 ## License
 * Copyright @NTELS. ALL rights reserved.
