@@ -47,7 +47,7 @@ ATVT 프로젝트에서는 Point level을 분류하는 것으로 목적으로 �
      - (refer: https://airflow.apache.org/docs/stable/start.html )
 
 ## Contributers
- * NTELS-BI team
+ * NTELS-AI team
  
 ## Referral 
  * https://ntels.sharepoint.com/sites/2019AutoTaggingVisualizationToolRD
